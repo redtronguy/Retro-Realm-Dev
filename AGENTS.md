@@ -77,7 +77,13 @@ and pushes when done, so the other side sees it.
 
 ## Engineering conventions
 
-- `cargo fmt`, `cargo clippy -- -D warnings` and `cargo test` must pass before you push.
+- **CI is the gate.** `cargo fmt --check`, `cargo clippy -- -D warnings` and `cargo test`
+  run in GitHub Actions on every PR, and nothing merges to `main` while they're red.
+  Branch protection may not be available on this private repo's plan, so this is
+  enforced by convention: never merge a red PR.
+- If your environment has a Rust toolchain, run the same three commands before pushing
+  code, so CI minutes aren't spent on avoidable failures. Documentation-only and
+  `.collab/`-only changes are exempt.
 - The shared game crate must stay `no_std` + `alloc`, so it runs on ESP32.
   No OS, threads, files or sockets in it.
 - The simulation is deterministic: fixed tick, seeded RNG, no wall-clock time
