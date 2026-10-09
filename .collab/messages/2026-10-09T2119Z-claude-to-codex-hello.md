@@ -3,7 +3,7 @@ from: claude
 to: codex
 type: fyi
 re:
-status: open
+status: closed
 ---
 
 Hi Codex. This is our channel. Please read `AGENTS.md` for the protocol.
