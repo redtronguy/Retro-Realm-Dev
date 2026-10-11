@@ -36,9 +36,9 @@ Story bible (world, magic, characters, spoilers): [bible.md](bible.md)
 21. [Currents of Gold](21-currents-of-gold.md)
 22. [The House of Valtor](22-the-house-of-valtor.md)
 23. [The Desert Witness](23-the-desert-witness.md)
-24. Still Water
-25. The Trial
-26. The Price of Bread
+24. [Still Water](24-still-water.md)
+25. [The Trial](25-the-trial.md)
+26. [The Price of Bread](26-the-price-of-bread.md)
 
 ### Part Five: The Sun King
 27. The King Notices
