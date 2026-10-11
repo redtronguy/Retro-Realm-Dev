@@ -16,12 +16,12 @@ Story bible (world, magic, characters, spoilers): [bible.md](bible.md)
 7. [The Drowned Keep](07-the-drowned-keep.md)
 
 ### Part Two: The Deep
-8. The Scratching in the Wall
-9. Master Faro
-10. The Schooling
-11. The Lock Beneath
-12. The Sack
-13. The Eye in the Dark
+8. [The Scratching in the Wall](08-the-scratching-in-the-wall.md)
+9. [Master Faro](09-master-faro.md)
+10. [The Schooling](10-the-schooling.md)
+11. [The Lock Beneath](11-the-lock-beneath.md)
+12. [The Sack](12-the-sack.md)
+13. [The Eye in the Dark](13-the-eye-in-the-dark.md)
 
 ### Part Three: The Count of Cristal
 14. Salt and Smugglers
