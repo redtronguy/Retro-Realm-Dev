@@ -110,7 +110,7 @@ His disguises:
 - **Hayda:** daughter of Emir Tariq of Qasr. Sold into slavery at 6; Edric buys her freedom at 17.
   She becomes his ward, then his truest companion. She testifies against Fenrick.
 - **Bastien Corso:** Edric's steward, a former smuggler. Valtor's injustice killed his brother.
-  Bastien once tried to stab Valtor in a garden and saw him bury a newborn alive. He dug up the baby,
+  Bastien once tried to stab Valtor in the garden at Larkmere and saw him bury a newborn alive. The baby was Valtor's son by **Hermione Quell** (then old Haverel's young wife, later Dorran's wife), so Andric is Elsabet Quell's half-brother. He dug up the baby,
   and his sister-in-law raised the boy, who grew up cruel and ran away.
 - **Vasco Rook:** the outlaw king of the Greyhills. Owes Edric his life and lends him men.
 
@@ -128,7 +128,7 @@ His disguises:
   daughter. Tried for Cade's murder, he reveals in court that the High Justicar is his father.
 
 ### The Quell household
-- **Elsabet Quell:** Dorran's daughter. Sharp, a musician, wants nothing to do with marriage.
+- **Elsabet Quell:** 19. Hermione's daughter by old Haverel, born just before he died; Dorran raised her as his own and she uses his name. Sharp, a musician, wants nothing to do with marriage.
   Runs away the night the imposter is exposed.
 
 ### The great power

@@ -120,11 +120,11 @@ Faro sent everyone else out of the room. And then he poured two glasses of Jac's
 
 Bastien's story took an hour.
 
-He had had a brother. Twenty-two years ago, in Solace, where they had both worked the docks. His brother had been a hothead, a talker, a man who said things in taverns about the King. And when a Radiant priest was knifed in an alley near the docks one night, his brother had been arrested, because somebody had to be. Corvan Valtor, newly returned from the provinces, newly married to his great lady, had been the prosecutor. Valtor had known his brother was innocent. Everybody had known; there were six witnesses who had seen him in a tavern across the city that night. Valtor had not called them. He had needed a conviction, quickly, in a case the High Justicar was watching. Bastien's brother had been hanged on the Bridge of Lamps in front of a crowd, and Valtor had been promoted.
+He had had a brother. Twenty-five years ago, in Solace, where they had both worked the docks. His brother had been a hothead, a talker, a man who said things in taverns about the King. And when a Radiant priest was knifed in an alley near the docks one night, his brother had been arrested, because somebody had to be. Corvan Valtor, a young prosecutor of twenty-two with a great deal to prove, had been given the case. Valtor had known his brother was innocent. Everybody had known; there were six witnesses who had seen him in a tavern across the city that night. Valtor had not called them. He had needed a conviction, quickly, in a case the High Justicar was watching. Bastien's brother had been hanged on the Bridge of Lamps in front of a crowd, and Valtor had been promoted.
 
 "I swore I'd kill him," said Bastien. "In the old way, my family's way. A vendetta. I told him so, to his face, outside the court. He laughed. He had me thrown out of the city." He drank. "I waited two years. Then I came back."
 
-Valtor had a country house in those days, at a place called Larkmere, an hour's ride outside Solace. A pretty house with a walled garden. He went there alone, sometimes, at night, without his wife, without servants. Bastien had watched it for weeks. And on a night in the spring, he had climbed the garden wall with a knife in his belt, and hidden among the trees, and waited.
+Valtor had a country house in those days, before he was sent to the provinces, at a place called Larkmere, an hour's ride outside Solace. A pretty house with a walled garden. He went there alone, sometimes, at night, without his wife, without servants. Bastien had watched it for weeks. And on a night in the spring, he had climbed the garden wall with a knife in his belt, and hidden among the trees, and waited.
 
 "He came out of the house about midnight," said Bastien. "Alone. With a lantern, and a spade. And a box. A little box, like a child's coffin. I watched him dig a hole under the big tree at the end of the garden, and put the box in it, and fill it in. Then he stood there, looking at it." The scarred throat moved. "And I came out of the trees and put my knife in him."
 
@@ -134,7 +134,7 @@ Valtor had a country house in those days, at a place called Larkmere, an hour's 
 
 The fire crackled in the harbour tower. Outside, the gale howled.
 
-"A newborn. A boy. Still in his birth-blood, wrapped in a bit of linen. Somebody had put him in a box and buried him alive. And he was alive. Just. Cold as ice, and blue, and not crying, but breathing." Bastien's voice had gone very rough. "I found out later. I made it my business. Valtor had a mistress, in those days, a lady of the court, a married lady, whose husband was away at the wars. She'd had his child in secret, at Larkmere. And the child was born too early, and wasn't breathing, and the midwife said it was dead. And Valtor took it out into the garden to bury it, so no one would ever know. Only it wasn't dead." He drank. "Or maybe he knew it wasn't. I've wondered, all these years. Whether he knew."
+"A newborn. A boy. Still in his birth-blood, wrapped in a bit of linen. Somebody had put him in a box and buried him alive. And he was alive. Just. Cold as ice, and blue, and not crying, but breathing." Bastien's voice had gone very rough. "I found out later. I made it my business. Valtor had a mistress, in those days, a lady of the court, a married lady, whose old husband was away in the south on business. She'd had his child in secret, at Larkmere. And the child was born too early, and wasn't breathing, and the midwife said it was dead. And Valtor took it out into the garden to bury it, so no one would ever know. Only it wasn't dead." He drank. "Or maybe he knew it wasn't. I've wondered, all these years. Whether he knew."
 
 "What did you do with it?"
 
@@ -142,7 +142,7 @@ The fire crackled in the harbour tower. Outside, the gale howled.
 
 Faro waited.
 
-"He burned the house down," said Bastien Corso. "With her in it. And took the money, and ran. That was eight years ago. I've been looking for him ever since. I've heard things. He's been in prison. He's been a thief, a forger, a killer for hire. He's in Solace now, they say, or was. Calling himself something else." He looked up at last, with his black eyes. "That's what Valtor made, the night he buried that box. And that's what I made, the night I dug it up. I don't know which of us I hate more. But I know which one I can reach."
+"He burned the house down," said Bastien Corso. "With her in it. And took the money, and ran. That was seven years ago. I've been looking for him ever since. I've heard things. He's been in prison. He's been a thief, a forger, a killer for hire. He's in Solace now, they say, or was. Calling himself something else." He looked up at last, with his black eyes. "That's what Valtor made, the night he buried that box. And that's what I made, the night I dug it up. I don't know which of us I hate more. But I know which one I can reach."
 
 Faro sat with that for a long time.
 

@@ -32,10 +32,10 @@ Story bible (world, magic, characters, spoilers): [bible.md](bible.md)
 19. [The Road to Solace](19-the-road-to-solace.md)
 
 ### Part Four: The Three Hands
-20. The Count Arrives
-21. Currents of Gold
-22. The House of Valtor
-23. The Desert Witness
+20. [The Count Arrives](20-the-count-arrives.md)
+21. [Currents of Gold](21-currents-of-gold.md)
+22. [The House of Valtor](22-the-house-of-valtor.md)
+23. [The Desert Witness](23-the-desert-witness.md)
 24. Still Water
 25. The Trial
 26. The Price of Bread
