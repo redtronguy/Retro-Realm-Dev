@@ -24,12 +24,12 @@ Story bible (world, magic, characters, spoilers): [bible.md](bible.md)
 13. [The Eye in the Dark](13-the-eye-in-the-dark.md)
 
 ### Part Three: The Count of Cristal
-14. Salt and Smugglers
-15. The Isle of Cristal
-16. The Priest at the Inn
-17. The House of Moren
-18. Building on Ruins
-19. The Road to Solace
+14. [Salt and Smugglers](14-salt-and-smugglers.md)
+15. [The Isle of Cristal](15-the-isle-of-cristal.md)
+16. [The Priest at the Inn](16-the-priest-at-the-inn.md)
+17. [The House of Moren](17-the-house-of-moren.md)
+18. [Building on Ruins](18-building-on-ruins.md)
+19. [The Road to Solace](19-the-road-to-solace.md)
 
 ### Part Four: The Three Hands
 20. The Count Arrives

@@ -97,7 +97,7 @@ His disguises:
 - **Mira Solen:** a Weir-folk fisher-girl, fierce and loyal, Edric's betrothed. After years believing
   him dead she marries Fenrick to save her mother from destitution. As Countess Morrow she has a son,
   Aren. She recognises Edric the moment she sees him.
-- **Aren Morrow:** Mira and Fenrick's son, 17. Proud, decent and impulsive. Edric "rescues" him from
+- **Aren Morrow:** Mira and Fenrick's son, 16. Proud, decent and impulsive. Edric "rescues" him from
   Rook's bandits to enter Solace society. Aren later challenges the Count to a duel, then publicly apologises.
 - **Master Faro:** the last Tidewarden, about 70, imprisoned for 30 years. Wry, brilliant and stubborn.
   Teaches Edric everything, deduces the betrayal, reveals the Lock and the treasure. Dies in his arms.
