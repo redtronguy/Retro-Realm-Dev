@@ -14,6 +14,7 @@ Settled decisions are final unless the user reopens them. Agents may add to
 | D5 | 2026-10-09 | Server is authoritative; clients send commands and receive snapshots and deltas. | Carried over from the prototype. |
 | D6 | 2026-10-09 | Core gameplay loop: build the city (roads, R/C/I zones growing by demand, shared treasury) by day; adventure and defend at night (monsters raid buildings into rubble; loot feeds the treasury). | Validated in the C prototype. |
 | D7 | 2026-10-09 | Art is authored in **Aseprite**, imported by a build step. AI images are concept/mood references only. | |
+| D8 | 2026-10-11 | Story basis: ***The Tidebound Count***, an original fantasy reimagining of *The Count of Monte Cristo* (public domain) with powers. Claude writes the novel first in `book/`; the game is adapted from it after the user has read it. | User request. Bible: `book/bible.md`. Don't adapt game content from the book until the user signs off. |
 
 ## Open questions (waiting on the user)
 
