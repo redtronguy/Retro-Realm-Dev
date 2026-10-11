@@ -41,8 +41,8 @@ Story bible (world, magic, characters, spoilers): [bible.md](bible.md)
 26. [The Price of Bread](26-the-price-of-bread.md)
 
 ### Part Five: The Sun King
-27. The King Notices
-28. The Siege of Cristal
-29. Return to the Keep
-30. The Chains
-31. Wait, and Hope
+27. [The King Notices](27-the-king-notices.md)
+28. [The Siege of Cristal](28-the-siege-of-cristal.md)
+29. [Return to the Keep](29-return-to-the-keep.md)
+30. [The Chains](30-the-chains.md)
+31. [Wait, and Hope](31-wait-and-hope.md)

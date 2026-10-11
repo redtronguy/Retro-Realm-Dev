@@ -147,6 +147,13 @@ His disguises:
   Fenrick, Dorran and Valtor rise to become the King's Three Hands.
 - **Year 19:** Solace. The Hands fall, the King moves against Cristal, and the climax comes at the Drowned Keep.
 
+## Who dies (canon)
+- Faro (Keep, third stroke), Tomas Vane (hunger), Cade Rusk (stabbed by Andric), Fenrick (his own sword),
+  Heloise and Pip Valtor (poison), the Aubrays and old Noll (blackwater), Big Olaf (sunfire, singing in his
+  temple), Severin Valtor (at dawn, as the sea turns blue), Aurelian (dust).
+- Survivors: Bastien, Jac (loses use of an arm), Cassia Vell (loses her hands), Hayda, Mira, Aren, Maxim, Lyse.
+  Valtor lives on, mad. Dorran lives on as a clerk in the south. Andric escapes.
+
 ## Ending (the novel's canon)
 
 Edric does not free the Deep in rage. He takes the god's power into himself to break the chains, then
