@@ -72,7 +72,8 @@ def center(text, y, size, font, fill):
 center("THE", 180, 90, serif, (255, 205, 117))
 center("TIDEBOUND", 290, 190, serif, (255, 205, 117))
 center("COUNT", 500, 190, serif, (255, 205, 117))
-center("A Novel", 1450, 70, serif_r, (220, 230, 245))
+sub = sys.argv[2] if len(sys.argv) > 2 else "A Novel"
+center(sub, 1450, 70 if sub == "A Novel" else 90, serif if sub != "A Novel" else serif_r, (220, 230, 245) if sub == "A Novel" else (115, 239, 247))
 center("Wait, and hope.", 2260, 60, serif_r, (180, 210, 235))
 img.save(out, quality=92)
 print("cover:", out)

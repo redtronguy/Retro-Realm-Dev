@@ -36,17 +36,17 @@ It was dry, and cracked, and very old, and quite extraordinarily irritable, and 
 
 Edric turned in the dark.
 
-There was no light. There was no up or down. There was only the sea, all of it, everywhere, and him in it. But the sea remembered everything it had ever touched. Every reef and every wreck and every bone. Every sailor who had gone over the side in a storm, every child the blight-cough had taken, every Tidewarden who had stood in the water up to their waist in the Drying with their hands raised. Every body the Drowned Keep had sewn into a sack and thrown off the walls at the change of watch, because the sea was the only grave the Keep allowed.
+There was no light, no up or down, only the sea, everywhere, and him in it. But the sea remembered everything it had ever touched: every wreck and every bone, every sailor gone over the side in a storm, every body the Drowned Keep had sewn into a sack and thrown off the walls at the change of watch, because the sea was the only grave the Keep allowed.
 
-They had found the old man in the morning, in the younger prisoner's bed, under the younger prisoner's blanket, and the governor had been very angry. And that night, at the change of watch, they had sewn him into a sack and thrown him into the sea after all.
+They had found the old man in the morning, in the younger prisoner's bed, and the governor had been very angry. And that night, at the change of watch, they had sewn him into a sack and thrown him into the sea after all.
 
 And the sea had kept the shape of him. The way it kept the shape of a wreck on the bottom. The way it had kept, once, the shape of an eye, because that was the only shape a drowning man would understand.
 
-He was sitting cross-legged in the dark, the way he used to sit on the wet stone floor of his cell, with his hands on his knees. Thin as a rope, and dust-grey, with his white beard down to his chest and his white hair standing up in tufts. Both his hands lay open on his knees. The left one, the one that had never worked again after the first stroke, lifted, as Edric watched, and scratched the end of his nose.
+He was sitting cross-legged in the dark, the way he used to sit on the wet stone floor of his cell, thin as a rope and dust-grey, with his white hair standing up in tufts and both hands open on his knees. The left one, the one that had never worked again after the first stroke, lifted, as Edric watched, and scratched the end of his nose.
 
 "Faro," said Edric.
 
-"Who else would it be? The Sun King?" Master Faro looked at him, with his sharp black eyes in his ruined old face, from three feet away, at the bottom of the world. "What are you doing?"
+"Who else would it be? The Sun King?" Master Faro looked at him, with his sharp blue eyes, from three feet away, at the bottom of the world. "What are you doing?"
 
 "Giving it back."
 
@@ -62,23 +62,23 @@ Edric stared at him.
 
 He could hear them.
 
-He had heard them all along, without knowing that he heard: very small, very far, on the ledges of the temple under the Teeth, at the edge of a pool of grey water where seven chains had been. Not one voice. Not only Mira's. Forty voices, fifty: old cracked voices and young clear ones, the Weir-folk who had come across three hundred miles of dead sea in their fishing boats, by listening, and followed him in under the arch where the King's gate had fallen into water. They were standing on the salt-crusted ledges, all round the pool, with their bare feet in the water. They had been singing since Mira began. They had not stopped when the chains broke. They had not stopped when the King turned to dust.
+He had heard them all along, without knowing that he heard. Not one voice. Not only Mira's. Forty voices, fifty, old and young: the Weir-folk who had come across three hundred miles of dead sea in their fishing boats and followed him in under the arch where the King's gate had fallen into water. They were standing on the ledges all round the pool, with their bare feet in the water. They had been singing since Mira began. They had not stopped when the chains broke. They had not stopped when the King turned to dust.
 
 *Take us out,* they sang. *Take us out on your tide, if you will have us. Carry us, and we will carry you.*
 
 "It's a wedding song," said Edric.
 
-"It is *now*," said Faro. "It wasn't always." He leaned forward, with his elbows on his knees, the way he used to lean forward in the cell when he was about to explain something and was enjoying himself. "When I was a boy, before I was a Warden, before anything, I read every book my mother had. Hundreds. All burned now, in the Drying or after. There was one I didn't understand, then. *On the Keeping of the Balance.* You've seen a copy. The one in your library on Cristal is missing its last forty pages; somebody tore them out to start a fire, I expect, in the bad years. Those were the pages that mattered."
+"It is *now*," said Faro. "It wasn't always." He leaned forward, with his elbows on his knees, the way he used to lean forward in the cell when he was about to explain something and was enjoying himself. "When I was a boy, before I was a Warden, before anything, I read every book my mother had. All burned now. There was one I didn't understand, then. *On the Keeping of the Balance.* The copy in your library on Cristal is missing its last forty pages. Those were the pages that mattered."
 
 "What did they say?"
 
-"That a Warden who is taken by the tide cannot give it back alone. Not all of it. Not the whole sea. No one can. It's too much water for one vessel. It would be like asking a cup to empty the ocean through itself." Faro's black eyes were very bright. "So in the oldest days, when it happened, when the Deep chose someone and filled them and the time came to give it home, the Warden did not do it alone. The people did it with him. The fisher-folk, the shore-folk, the ones who listened. They went down into the water with the Warden, hand in hand, as many as would come, and the sea went back through all of them. A little through each. A cupful through each. And no one broke, because no one was asked to carry more than a cup." He sat back. "*No vessel holds the sea,* the book said. *But a harbour does. And a harbour is made of many stones.*"
+"That a Warden who is taken by the tide cannot give it back alone. Not all of it. Not the whole sea. No one can. It's too much water for one vessel. It would be like asking a cup to empty the ocean through itself." Faro's blue eyes were very bright. "So in the oldest days, when it happened, when the Deep chose someone and filled them and the time came to give it home, the Warden did not do it alone. The people did it with him. The fisher-folk, the shore-folk, the ones who listened. They went down into the water with the Warden, hand in hand, as many as would come, and the sea went back through all of them. A little through each. A cupful through each. And no one broke, because no one was asked to carry more than a cup." He sat back. "*No vessel holds the sea,* the book said. *But a harbour does. And a harbour is made of many stones.*"
 
 Edric did not say anything for a long time.
 
 "The song," he said at last.
 
-"The song." Faro nodded. "*Carry us, and we will carry you.* It's the oldest thing the Weir-folk have, older than their houses. Older than Saltmere. They kept it for three hundred years after the Drying, after everyone who knew what it was for was dead, because it was beautiful, and because the grandmothers said to. They sang it at weddings. Two people in a boat with no oars, asking the sea to agree." He smiled, in his beard. "Ysolde knew, I think. Your Old Ysolde, at the end of the walkway. She was a hundred and two. She knew a great many things she never told anyone. She made that crown, and kept it, and gave it back, and told your Mira to give it to you or to the sea." He shrugged. "Same thing, in the end. As it turns out."
+"The song." Faro nodded. "*Carry us, and we will carry you.* It's the oldest thing the Weir-folk have. Older than Saltmere. They kept it for three hundred years after everyone who knew what it was for was dead, because it was beautiful, and because the grandmothers said to. They sang it at weddings. Two people in a boat with no oars, asking the sea to agree." He smiled, in his beard. "Ysolde knew, I think. Your Old Ysolde, at the end of the walkway. She was a hundred and two. She made that crown, and kept it, and gave it back, and told your Mira to give it to you or to the sea." He shrugged. "Same thing, in the end. As it turns out."
 
 ---
 
@@ -86,7 +86,7 @@ Edric looked at the old man in the dark for a long time.
 
 "Why didn't you tell me?" he said. "In the cell. In eleven years. Why didn't you ever tell me?"
 
-"I did tell you," said Faro. "At the end. When I couldn't speak properly. I told you to go on, and live, and find another way." He looked at Edric with something in his face that was almost, but not quite, an apology. "You thought I meant out of the Keep. So did I, at the time, mostly. I was dying. I wasn't at my best." He scratched his nose again with the hand that had not worked for eleven years, and seemed to notice it, and look at it with interest. "And I didn't know, then, that you'd need it. I thought you'd be tide-taken and burn out in a month, or drown, like the rest of them. I didn't know you'd be the first one who ever tried to give it back."
+"I did tell you," said Faro. "At the end. When I couldn't speak properly. I told you to go on, and live, and find another way." He looked at Edric with something in his face that was almost, but not quite, an apology. "You thought I meant out of the Keep. So did I, at the time, mostly. I was dying. I wasn't at my best." He scratched his nose again with the hand that had hung useless for his last five years, and looked at it with interest. "And I didn't know you'd need it. I thought you'd burn out in a month, or drown, like the rest of them. I didn't know you'd be the first one who ever tried to give it back."
 
 "And now?"
 
@@ -96,7 +96,7 @@ Edric looked at the old man in the dark for a long time.
 
 The sea pressed against him. He could feel the wave, still standing up on every coast of the world, hesitating. He could feel the small warm thing at the bottom of himself, cracked, holding. He could feel the hands.
 
-Mira's, first. Still in the water, at the edge of the pool, where she had laid the crown. Rough with net-cord, and cold, and reaching down. And beside her, now that he knew how to feel them, others. A dozen bare feet on the lowest ledge, in the water. Two dozen. Old Weir-folk men who had sat on the landing stages when he was a boy, mending nets. A woman who had danced at the Feast of Lamps. Children.
+Mira's, first, in the water at the edge of the pool where she had laid the crown, rough with net-cord, and cold. And beside her, now that he knew how to feel them, others. Bare feet on the lowest ledge, in the water. Old Weir-folk men who had mended nets on the landing stages when he was a boy. Children.
 
 "I can't ask them," he said.
 
@@ -106,15 +106,11 @@ Mira's, first. Still in the water, at the edge of the pool, where she had laid t
 
 Faro looked at him for a long moment.
 
-"Do you know," he said, "there's a book in a chest in the treasury on Cristal, under the citadel, sealed with the old Warden's seal. You found it. You know the one. The rituals for binding other people's will to yours. How the Warden of Ys did it, before she drowned her city." He watched Edric's face. "You could have opened that chest. You could have learned how to make fifty people walk into the sea and carry it for you, whether they wanted to or not. It's in there. Half the tide-taken Wardens who ever lived would have done it, and called it necessity."
+"Do you know," he said, "there's a book in a chest in the treasury on Cristal, under the citadel, sealed with the old Warden's seal. You found it. You know the one. The rituals for binding other people's will to yours. How the Warden of Ys did it, before she drowned her city." He watched Edric's face. "You could have learned from it how to make fifty people walk into the sea and carry it for you, whether they wanted to or not. Half the tide-taken Wardens who ever lived would have done it, and called it necessity."
 
 "I put it back," said Edric. "I sealed it. I didn't want to know."
 
-"I know you did. I was proud of you, when I heard. The sea told me." Faro leaned forward again. "And I'll tell you something else the sea told me. Under the Teeth, the night you drowned, when it offered you everything, you asked it for only enough to live. Nobody had ever asked it for less. Did you know that? In all the ages. It's been thinking about it ever since."
-
-He was quiet a moment.
-
-"You've spent your whole life refusing to take more than your share, Edric. In the Keep. On Cristal. In that wretched city. And you'd have been right, every time." He tapped the side of his nose. "But wanting to pay all of it yourself, alone, every drop, so you never owe anyone anything—that's just another way of keeping it. Isn't it? Holding on. Being the one. It's the same thing he did, up in his tower, only with better manners." He jerked his head towards the place on the ledge where a little heap of grey dust lay. "You can't take it from them. You'd never take it from them; I know you. But you can let them give. That's the whole difference. That's all the Return ever was."
+"I know. The sea told me. It told me too that under the Teeth, the night you drowned, you asked it for only enough to live. Nobody had ever asked it for less. It's been thinking about it ever since." Faro leaned forward. "You've spent your life refusing to take more than your share, Edric. And you were right to." He tapped the side of his nose. "But wanting to pay all of it yourself, alone, every drop, so you never owe anyone anything—that's just another way of keeping it. Isn't it? Holding on. Being the one. It's the same thing he did, up in his tower, only with better manners." He jerked his head towards the place on the ledge where a little heap of grey dust lay. "You can't take it from them. You'd never take it from them; I know you. But you can let them give. That's the whole difference. That's all the Return ever was."
 
 *Carry us,* sang the voices on the ledges, very faint, very far. *And we will carry you.*
 
@@ -134,11 +130,11 @@ He felt her hear. He felt her whole body go still, on the ledge, and then the so
 
 And then he felt her stand up, and walk down off the ledge into the pool.
 
-She went in up to her knees. Her waist. The grey water was cold and dead and moving now, very slowly, and she went down into it in her brown dress and her grey shawl the way the Weir-folk go into the water, without a moment's hesitation, because they can swim before they can walk. She went in until it was at her chest, and stopped, at the place where the chains had been, beside the crown, floating. And she held out her other hand, behind her, to the ledge.
+She went in up to her knees. Her waist. She went down into the grey water in her brown dress and her shawl the way the Weir-folk go into water, without a moment's hesitation, until it was at her chest, and stopped, at the place where the chains had been, beside the crown, floating. And she held out her other hand, behind her, to the ledge.
 
 And somebody took it.
 
-An old Weir-folk man, one of the Bettans' cousins, who had rowed his fishing boat three hundred miles across a dead sea in the dark because a woman had come to his landing stage and sat with her feet in the water and told him the sea was crying. He took Mira's hand, and walked down into the water after her, and held out his own hand behind him.
+An old Weir-folk man, one of the Bettans' cousins, who had rowed three hundred miles across a dead sea because a woman had sat on his landing stage and told him the sea was crying. He took Mira's hand, and walked down into the water after her, and held out his own hand behind him.
 
 And somebody took that.
 
@@ -150,7 +146,7 @@ He felt a small hand, strong, with a knife scar across one palm, take hold of an
 
 And then, one by one, from the ledges all round the cave, he felt the Hundred.
 
-Not all of them. Some stood where they were, with their dark hands lowered, staring. But some of them, the old men in white and gold who had stood at the King's side for fifty years, sixty, seventy, came slowly down the salt-crusted ledges the way old men walk, and stood at the edge of the water, and looked at the Weir-folk in the pool with their hands joined. And some of them, the oldest, went in.
+Not all of them. Most stood where they were, with their dark hands lowered, staring. But some of the old men in white and gold came slowly down the ledges the way old men walk, and looked at the Weir-folk in the pool with their hands joined, and went in.
 
 ---
 
@@ -162,7 +158,7 @@ And the sea went out of him.
 
 Not in a tide, the way it had on the beach. Not tearing. It went out of him the way water goes out of a full harbour when the sluices open all along the wall at once: through every gap, everywhere, easily, because there was somewhere for it to go. It went out of him into the pool, and into the hands in the pool, and through them. A little through each. A cupful through each.
 
-He felt each of them take it. He felt Mira shiver as the cold went into her, and taste the salt, and see, for a moment, a white city burning that she had never seen. And let it go, back down, through her feet, into the dark. He felt the old Bettan cousin gasp as three hundred years of grief went through him like a wave through a reef, and stand, and let it go. He felt the children on their parents' hips go very quiet and wide-eyed, and the sea go through them as lightly as light goes through glass. He felt Jac swear at it. He felt Hayda go still, the way she went still when she was afraid and would not show it, and remember, for a moment, a room in a palace in Qasr, and a market in Mazrah, and let them pass. He felt Cassia Vell weep, standing in the water, as the memory of the Drying went through her: the fire falling on the Tidewarden halls, the people standing in the sea with their hands raised, the scream that every Warden in the world had heard. In the Sun's name. She wept, and held on, and let it go.
+He felt each of them take it. He felt Mira shiver as the cold went into her, and taste the salt, and see, for a moment, a white city burning that she had never seen. And let it go, back down, through her feet, into the dark. He felt the children on their parents' hips go wide-eyed, and the sea go through them as lightly as light through glass. He felt Jac swear at it. He felt Hayda go still, the way she went still when she was afraid and would not show it, and remember, for a moment, a room in a palace in Qasr, and a market in Mazrah, and let them pass. He felt Cassia Vell weep, standing in the water, as the memory of the Drying went through her: the fire falling on the Tidewarden halls, the people standing in the sea with their hands raised, the scream that every Warden in the world had heard. In the Sun's name. She wept, and held on, and let it go.
 
 It hurt them. All of them. A little. Not enough to break.
 
@@ -184,13 +180,13 @@ He was still sitting cross-legged in the dark. But it was not as dark as it had 
 
 The old man looked at him, surprised.
 
-"Up," said Edric. "Out. Back. I don't know. You can't stay here. You've been in the dark long enough. Thirty-eight years in the Keep, and six more down here—"
+"You can't stay here," said Edric. "You've been in the dark long enough. Thirty-eight years in the Keep, and six more down here—"
 
-"*Down here*," said Faro, "is the sea. The free sea. The first time in three hundred years." He looked about him, at the grey light coming down through the water, at nothing, at everything. "Do you know how long I wanted this? I sat in that cell for thirty years trying to raise a single drop of water off a stone floor, and when I did it, I wept like a child. And now I'm *in* it. I'm in all of it. I can feel the shoals coming up off the Ember Coast. I can feel the weed growing back on the rocks under Saltmere. There's a whale off the Long Bank I'd very much like to go and look at." He smiled, and his whole ruined face changed with it. "I'm where I wanted to be, Edric. I'm only sorry it took me so long to get here, and that I had to bother you about it on your way past."
+"*Down here*," said Faro, "is the sea. The free sea. The first time in three hundred years." He looked about him, at the grey light coming down through the water, at nothing, at everything. "Do you know how long I wanted this? I sat in that cell for thirty years trying to raise a single drop of water off a stone floor, and when I did it, I wept like a child. And now I'm *in* it. All of it. I can feel the shoals coming up off the Ember Coast. There's a whale off the Long Bank I'd very much like to go and look at." He smiled, and his whole ruined face changed with it. "I'm where I wanted to be, Edric. I'm only sorry it took me so long to get here, and that I had to bother you about it on your way past."
 
 Edric could not speak.
 
-"Wait, and hope," said Master Faro. "I said that to you, at the end. I meant it. I still do." He leaned forward, one last time, with his sharp black eyes very close. "But I never said alone, you stubborn boy. I never once said wait *alone*."
+"Wait, and hope," said Master Faro. "I said that to you, at the end. I meant it. I still do." He leaned forward, one last time, with his sharp blue eyes very close. "But I never said alone, you stubborn boy. I never once said wait *alone*."
 
 And he was not there. There was only the sea, and the light coming down through it, and somewhere in the sound of the water, very faint, an old man laughing, and then not laughing, and then the sea's own voice.
 
@@ -198,7 +194,7 @@ And he was not there. There was only the sea, and the light coming down through 
 
 *Little one,* said the Deep.
 
-It was not the strangled whisper it had been at the end of the chains. It was not the vast slow rolling voice of the storm. It was something he had never heard from it before. Something clear, and young, and very old, like a voice that had just remembered how to speak and found that it liked the sound.
+It was not the strangled whisper of the chains, nor the vast slow voice of the storm. It was something clear, and young, and very old, like a voice that had just remembered how to speak and found that it liked the sound.
 
 *You gave back. All of it. Every drop. And you did not do it alone.* A long silence, full of light. *I did not know that could be done. In all the ages. I did not know your kind could carry me together, and not break. I did not know I could be given back by many hands.*
 
@@ -228,7 +224,7 @@ And something came into them. Not the sea. Not the flood. A little water. A cupf
 
 He came up out of the pool walking.
 
-Not dragged. Not coughing the sea out of his lungs in great grey gouts, the way a drowned man comes up. He came up the way a man comes up a stair out of a cellar into the morning, with his feet on the stone of the lowest ledge under the water and fifty hands on his arms and his shoulders and his coat, holding him, and Mira's face in front of him, soaked, with her black hair plastered to her cheeks and her dark green eyes very wide.
+Not dragged, not coughing up the sea, the way a drowned man comes up. He came up the way a man climbs a stair out of a cellar into the morning, with his feet on the stone of the lowest ledge under the water and fifty hands on his arms and his shoulders and his coat, holding him, and Mira's face in front of him, soaked, with her black hair plastered to her cheeks and her dark green eyes very wide.
 
 He put his hand up and touched her face.
 
@@ -236,7 +232,7 @@ He put his hand up and touched her face.
 
 "Everyone came," he said. "I couldn't not."
 
-Jac was swearing. Of course Jac was swearing. She had her one good hand twisted in his collar and was telling him, at length, in a steady furious tearful stream, exactly what she thought of men who walked into dead pools at the bottom of the sea without consulting their captains. Hayda had hold of his other arm and was saying nothing at all, with her face very still and her eyes shining. The Weir-folk were standing round him in the water, up to their waists, their chests, still holding hands, and the old Bettan cousin was crying openly, which the Weir-folk never did in front of anyone, and laughing, and so were the children.
+Jac was swearing. Of course she was. She had her one good hand twisted in his collar and was telling him, in a steady furious tearful stream, what she thought of men who walked into dead pools without consulting their captains. Hayda had hold of his other arm and was saying nothing at all, with her face very still and her eyes shining. The Weir-folk were standing round him in the water, up to their waists, their chests, still holding hands, and the old Bettan cousin was crying openly, which the Weir-folk never did in front of anyone, and laughing, and so were the children.
 
 He looked down at himself.
 
@@ -250,13 +246,13 @@ It was singing. And it was so loud, and so close, and so glad, that he began to 
 
 ---
 
-The Keep fell, after. It had been built on the Lock, and the Lock was gone. They felt it start in the rock under their feet, a long grinding shudder from far below, and the Weir-folk did not run and did not panic; they climbed into their fishing boats and the longboat in good order, the way people climb into boats who have done it every day of their lives, and rowed out through the open arch where the King's gate had been, under a rain of falling stones, in a long line of little lights.
+The Keep fell, after. It had been built on the Lock, and the Lock was gone. When the long grinding shudder came up through the rock, the Weir-folk did not panic; they climbed into their boats in good order, the way people do who have done it every day of their lives, and rowed out through the open arch where the King's gate had been, under a rain of falling stones, in a long line of little lights.
 
 Behind them, the Teeth cracked down the middle like a rotten tooth, and the tower leaned, and fell, and the red light at its top went out for the last time. And the sea took it all, gently, and closed over it, and lay still.
 
 And the sun came up out of the sea in the east, and did not hurt him at all, and the sea was blue.
 
-They all saw it: the shoals of silverfin rising from the deep water where the Teeth had been, turning together in the dawn light like a field of stars; the whale, a mile off, blowing its great plume into the morning air and sinking again, slow and black and enormous, with the sound of it coming across the water like a bell. In the boats, the Weir-folk stood up, one after another, and stared. And Jac Teague, at the longboat's tiller, laughed the laugh she had laughed on the deck of the *Slip* on the morning she found him on Gull Reef.
+They all saw it: the silverfin rising where the Teeth had been, turning together like a field of stars; the whale, a mile off, blowing its great plume into the morning air. In the boats, the Weir-folk stood up, one after another, and stared. And Jac Teague, at the longboat's tiller, laughed the laugh she had laughed on the deck of the *Slip* on the morning she found him on Gull Reef.
 
 Edric did not need to look at the whale. He could hear it.
 
@@ -264,11 +260,11 @@ Edric did not need to look at the whale. He could hear it.
 
 He married Mira Solen in the Weir at Saltmere, in the autumn, on the spring tide of the full moon, the luckiest wedding tide of the year. Twenty years late.
 
-They did it the old way, because that was the only way she would have it. There was a Feast of Lamps, the night before, in the Three Anchors, which Edric had not set foot in since he was nineteen, and which was very full, and very loud, and very drunk, and in which Big Olaf's hymn was sung by the Weir-folk at least once, very badly, in his memory. Pieter Moren came down from his house on the hill, seventy and leaning on a stick, and gave the groom a bottle of the green Halvar from the wager about the whale, and wept. Aren gave his mother away, which was not the Weir-folk custom, and nobody minded. Hayda sat at the corner table by the fire, in white Sardhi silk, and watched everything with her desert-well eyes, and said, when Edric came to sit beside her, that she had decided to come west with them in the spring after all, because somebody would have to make sure he went on laughing, and Mira could not be expected to do all of it.
+They did it the old way, because that was the only way she would have it. There was a Feast of Lamps the night before, in the Three Anchors, which was very full and very loud, and in which Big Olaf's hymn was sung at least once, very badly, in his memory. Pieter Moren came, seventy and leaning on a stick, and gave the groom a bottle of the green Halvar from the wager about the whale, and wept. Hayda sat at the corner table by the fire, in white Sardhi silk, and said, when Edric came to sit beside her, that she had decided to come west with them in the spring, because somebody would have to make sure he went on laughing, and Mira could not be expected to do all of it.
 
 And at midnight, Old Bettan, who had come back from Cristal for it, stood up from her chair with a bundle in her hands, and began to unwrap it, and the room went quiet.
 
-It was the crown. It had floated on the dead grey water at the foot of the chains, and been forgotten in the falling of the Keep, and been given up for lost. On the second morning after Edric and Mira came back to the Weir, it had been lying on the boards of the Solens' landing stage when Mira came out at dawn: wet, and tangled with a little weed, and smelling of the open sea. The sea-lavender was still the colour of dust. Two of the small white shells were still missing. One side of it was still crooked, where an old blind woman's fingers had shaken, making it, by lamplight, more than twenty years ago.
+It was the crown. It had been forgotten in the falling of the Keep, and given up for lost. On the second morning after Edric and Mira came back to the Weir, it had been lying on the boards of the Solens' landing stage at dawn, wet, and smelling of the open sea. The sea-lavender was still the colour of dust. Two of the small white shells were still missing. One side of it was still crooked, where an old blind woman's fingers had shaken, making it, by lamplight, more than twenty years ago.
 
 The sea had not mended it. It had only brought it home.
 
@@ -276,21 +272,21 @@ The sea had not mended it. It had only brought it home.
 
 At dawn, on the high silver tide, the boat with no oars went out.
 
-It was the same boat. Grey, and old, its paint long gone, kept twenty years under a house on the mud, wrapped in sailcloth, against the day. Mira had garlanded it with sea-lavender and white shells that morning with her own hands. The whole of the Weir stood on the walkways in the grey light, with lamps, and watched. Edric handed her down into it, and climbed in after her, and sat down facing her, with his knees against hers, and took her hands.
+It was the same boat, grey and old, kept twenty years under a house on the mud against the day, garlanded now with sea-lavender and white shells. The whole of the Weir stood on the walkways in the grey light, with lamps, and watched. Edric handed her down into it, and climbed in after her, and sat down facing her, with his knees against hers, and took her hands.
 
 Old Bettan untied the rope.
 
 The boat sat at the landing for a long moment, on the high tide, rocking gently. Nobody breathed.
 
-Then, very slowly, it began to move. Out. On the tide. Away from the landing stage, out into the channel, turning, the way a leaf turns on a stream. Out past the stilt-houses and the walkways and the reed-beds, towards the mouth of the Weir and the open sea, with the two of them in it holding hands, and the whole of the Weir behind them on the walkways beginning, very softly, to sing.
+Then, very slowly, it began to move. Out, on the tide, into the channel, turning the way a leaf turns on a stream, with the two of them in it holding hands, and the whole of the Weir behind them beginning, very softly, to sing.
 
 In the middle of the channel, where the water was deepest, the boat stopped. Not against a rope. Not against a shoal. It stopped on the open water, and the tide held it there, still, gently, the way two cupped hands hold something that might fly away.
 
-And Edric Vane and Mira Solen spoke their vows to the sea, in the Weir-tongue, in the oldest words there are. *Take us out. Carry us, and we will carry you.*
+And Edric Vane and Mira Solen spoke their vows to the sea, in the Weir-tongue, in the oldest words there are. *Take us out. Carry us, and we will carry you.* And he took the crown from her lap, crooked side and all, and set it on her hair.
 
 And the sea agreed.
 
-He heard it agree. He would always be able to hear it, now, for the rest of his life: a little, not too much, enough. The sound of the water all round the boat, rising and falling, singing. And somewhere in the song, very faint, very far, so deep that it might have been the bottom of the world, an old man's voice, dry and cracked and extraordinarily pleased with itself, remarking to nobody in particular that it was about time, and that he had always said the boy would be late to his own wedding.
+He heard it agree. He would always be able to hear it now: a little, not too much, enough. And somewhere in its singing, very faint, so deep that it might have been the bottom of the world, an old man's voice, dry and cracked and extraordinarily pleased with itself, remarking to nobody in particular that it was about time, and that he had always said the boy would be late to his own wedding.
 
 Mira was laughing. So was he.
 
