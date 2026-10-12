@@ -82,6 +82,30 @@ He felt the room. He felt two dozen captains, and the want in them, which was si
 
 "Same time next month, Warden," said Saul Marrock. "Don't be late."
 
+---
+
+Jac broke her silence on the second night out, at the wheel, under the stars, with the *Slip* running easy before a northerly and the lights of Corrow long gone astern.
+
+"You could have sunk him," she said. She did not look at him. "Don't tell me you couldn't. I was there in the squall. I've seen you on the shore with the blighted things. You could have stood on the harbour wall and put every one of his hulls on the bottom, and we'd never have heard the name Marrock again."
+
+"Yes," said Faro.
+
+"Then why?"
+
+He stood at the rail and looked at the black water sliding past, and felt it, as he always felt it: every current, every swell, the shoals moving far below, and under all of it, very far down, the slow cold patience turning in the dark. Waiting.
+
+"Because every time I use it," he said at last, "there's less of me afterwards. Not much. A little. Like warmth going out of a room. I don't notice it go. I only notice, weeks later, that the room's cold." He was quiet for a while. "Six hundred men, Jac. In the water, at night. I don't know how much of me would come back from that. I don't know if anything would."
+
+Jac Teague was silent for a long time. The *Slip* ran on under the stars.
+
+"So we pay," she said finally, "so you can stay warm."
+
+"So nobody drowns," said Faro. "And so I can stay warm. Both."
+
+"Huh," said Jac. She adjusted the wheel a spoke, and said nothing else for a while. Then, gruffly, not looking at him: "Well. I'd rather have you warm, I suppose. Even if it's my brandy money keeping you that way."
+
+It was the closest she came, that year, to forgiving him.
+
 Faro sailed home. The walls on the shore of Cristal were not finished that winter, and when a blighted thing that had once been a seal dragged itself ashore in the dark of the moon and killed a net-mender's boy, it came in through the gap where the north wall should have been. Tam taught the children in their coats all winter, under a roof that leaked onto the slates, and did not complain once, and did not need to.
 
 ### Later
