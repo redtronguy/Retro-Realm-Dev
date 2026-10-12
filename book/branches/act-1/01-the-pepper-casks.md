@@ -206,6 +206,8 @@ Dorran Quell smiled at him then: a small, polite smile that went no further than
 
 He walked to Chandler's Row and sat in his narrow rented room with his ledgers, which were no longer his ledgers, and did not light the candle.
 
+Through the thin wall he could hear his landlady's canary chirping in its cage, and her voice in the passage telling someone that the purser on the second floor had been let go off the *Gull*, she'd had it from the fishwife, and wasn't it a shame, such a quiet young man, and would he be able to pay to the end of the month, did they think. By evening the whole of Chandler's Row would know. By tomorrow, the whole coast. There was not a counting-house between Saltmere and the Cape that would put him on a stool now.
+
 He had been afraid for six weeks. He had lain awake every night of the voyage wondering what the boy knew and what the boy would do. And now he knew, and the fear was gone, and in its place there was something he had never felt before in his careful life: something hot and clean and almost sweet, like the first mouthful of strong drink to a man who has never touched it.
 
 *It wasn't mine to keep.*

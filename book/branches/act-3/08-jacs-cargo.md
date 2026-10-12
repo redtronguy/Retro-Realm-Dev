@@ -88,6 +88,18 @@ Then the old woman spoke. She had a voice like a dry reed, and the accent of the
 
 ---
 
+Later, on the middle watch, the elder of the Sardhi brothers came aft to the wheel. He had not said a dozen words to Faro in two months. He stood beside him in the dark for a long time, looking at the binnacle lamp, and then he said, in Sardhi, very low, so that no one else would hear:
+
+"Our mother signed a paper like that. In Qadir. When we were small. For bread." He was silent a while. "My brother and I worked it off in the salt pans. Nine years. She did not live to see the end of it."
+
+Faro did not say anything. There did not seem to be anything to say.
+
+"We knew what the factor was," said the Sardhi. "When he came aboard. We knew. We said nothing. The captain pays well, and we have a sister in Corrow with children, and a paper is only a paper." He looked at his hands on the rail. "Then you went down into the hold and read it to them in their own tongue, and tore it, and I was ashamed." He turned to go. Then he stopped, and made a sign with his fingers that Faro had not seen before: not the ward against the evil eye, and not the sea's blessing, but something simpler, the way one man in the desert touches his heart to another across a fire. "My name is Idris," he said. "My brother is Kemal. You did not ask, these two months. Now you know."
+
+He went forward into the dark.
+
+---
+
 They put into Corrow four days later, with no fee and no cargo worth the name and twenty-three hungry passengers, and Seref Bal went ashore without looking back, and by evening every tavern on the quay knew that Jac Teague had broken a contract with the Mazrah houses. Two of the chandlers who sold her water would not sell to her. A man she had known for ten years crossed the street to avoid her. Somebody painted a word on the *Slip*'s hull in the night, in tar, and Olaf spent the next morning scraping it off and singing very loudly.
 
 Jac said nothing about any of it. She found the passengers a place to sleep, in a half-empty warehouse she rented at the back of the harbour, and paid for their bread out of her own purse, and when Faro tried to thank her, she told him what he could do with his thanks, in some detail.
@@ -173,6 +185,16 @@ He looked at it. It was the first money he had held in fourteen years. It was he
 "I know."
 
 "Do you?" She looked at him then, sideways, in the dark. "I thought you were a man who'd have asked." She pushed herself off the rail. "Shows what I know."
+
+Later still, Tam came aft. The boy did not come to the wheel. He stopped a little way off, by the binnacle, with his hands shoved in his pockets, and stood there, the way the crew would one day learn to stand near the man they called the Warden, except that there was nothing in his face like faith.
+
+"The boy with the names," said Tam. "I told him the *Slip* was the fastest ship in the Reach. I told him nobody could ever catch us." His voice was thick. "He asked me if that meant we could come back for him. If something went wrong. I said yes." He wiped his nose on his sleeve. "You speak their talk. What was it the girl said to you? At the top of the ladder?"
+
+Faro looked at the sea.
+
+"She said she knew I'd read the paper," he said.
+
+Tam stared at him for a long moment. Then he turned and went below without another word, and in the morning he had moved his hammock to the other end of the hold.
 
 He stood at the stern until the *Bountiful*'s lights had dropped below the horizon behind them. Then he went below, and lay down in his corner, in the empty hold, among the casks, and it was very quiet, and he could not sleep at all.
 

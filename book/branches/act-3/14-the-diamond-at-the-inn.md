@@ -10,23 +10,23 @@
 
 He got as far as the Sallow dyke.
 
-The rain had thickened while he sat by the fire, and the road ran ahead of him into a grey nothing of reeds and water, and the brass lantern bumped against his chest at every step. He walked the way the Brothers walked, slowly, with the staff, and he did not look back at the Dry Well. He had done what he came to do. He had put the stone into Cade Rusk's hand and let it find whatever was in the man, as the sea finds the weak plank in a hull. That had been the whole idea. A test. If there was anything in Cade worth saving, the diamond would find it. If there was not, the diamond would find that too.
+The rain had thickened while he sat by the fire, and the road ran ahead of him into a grey nothing of reeds and water, and the brass lantern bumped against his chest at every step. He did not look back at the Dry Well. He had put the stone into Cade Rusk's hand and let it find whatever was in the man, as the sea finds the weak plank in a hull. That had been the whole idea. A test. If there was anything in Cade worth saving, the diamond would find it. If there was not, the diamond would find that too.
 
 At the crown of the dyke, where the old sluice-gate stood rotting in the reeds, he stopped.
 
-He had not meant to reach. He was holding the face, and the face cost him; the cold ran into him steadily, like a tap left open, and he had no wish to open another. But the habit was in him now, the way the habit of reading the sky is in a sailor, and he felt the inn behind him without trying. He felt it the way he felt the currents round a reef: the slow drag of the marsh water under the road, the rain soaking into the thatch, and inside, three hundred yards back, the people.
+He had not meant to reach. But the habit was in him now, the way the habit of reading the sky is in a sailor, and he felt the inn behind him without trying. Three hundred yards back, he felt the people.
 
 Cade was a muddle. Fear and want and shame went round and round in him like scum in an eddy, and none of them pulled very hard in any one direction. Cade had never pulled hard in any direction in his life.
 
 The woman was different.
 
-Agna Rusk pulled like a drain. He felt her as he had once felt a sluice open under the *Gull's Promise* in Saltmere harbour, a single cold, steady, purposeful draw, all the water in the room bending towards it. There was no muddle in her. She wanted one thing. She had wanted it, he thought, for a very long time, through years of coughing and flea-ridden beds and turnip stew and a husband who drank the stock. She had never had a way to get it. Now there was a stone the size of a quail's egg in her husband's fist, and a jeweller in Fendle who did not ask questions, and a week.
+Agna Rusk pulled like a drain: a single cold, steady, purposeful draw, all the water in the room bending towards it. There was no muddle in her. She wanted one thing. She had wanted it for a very long time, through years of coughing and flea-ridden beds and a husband who drank the stock. Now there was a stone the size of a quail's egg in her husband's fist, and a jeweller in Fendle who did not ask questions, and a week.
 
 *Let it find what is in them,* said the sea, very far down. It was not quite the Deep's voice; only the shape the cold made in his thoughts when he stood still. *That was the bargain you made with yourself. A test. Let it run.*
 
 He stood on the dyke in the rain and thought about the test.
 
-He thought it had been an honest one when he made it. He had sat on the *Slip* with the bowl of water and made a face that slid off the eye and told himself he was offering Cade Rusk a choice, the choice nobody had offered Edric Vane: here is the means to do good, do some. But a test is only a test if a man can pass it. He thought about the yellow eyes in the doorway, and the jeweller, whoever he was, coming up the market road next week with his scales and his strongbox, a man who had done nothing to Edric Vane and never would. He thought about what fifty thousand marks does in a house where a woman has been counting other people's purses for twenty years.
+He had told himself he was offering Cade Rusk the choice nobody had offered Edric Vane: here is the means to do good, do some. But a test is only a test if a man can pass it. He thought about the yellow eyes in the doorway, and a jeweller coming up the market road next week with his strongbox, a man who had done nothing to Edric Vane and never would. He thought about what fifty thousand marks does in a house where a woman has been counting other people's purses for twenty years.
 
 It was not a test. It was a trap with a stone for bait. And he had baited it, and walked away so he would not have to see it close.
 
@@ -38,11 +38,11 @@ He turned round, and walked back past the Dry Well on the far side of the road, 
 
 ---
 
-The Crossed Keys at Fendle was everything the Dry Well was not: warm, loud, lit, full of carters steaming by the fire and a landlady who put a bowl of mutton in front of a Brother of the Lantern without asking whether he could pay. He ate it, because the cold in him had gone deep and he needed something hot. Then he sat with his back to the wall and his face held soft and dull, and watched the room, and reached.
+The Crossed Keys at Fendle was everything the Dry Well was not: warm, loud, lit, full of carters steaming by the fire and a landlady who put a bowl of mutton in front of a Brother of the Lantern without asking whether he could pay. He ate it, and sat with his back to the wall and his face held soft and dull, and watched the room, and reached.
 
 It took him an hour to find the right man.
 
-He was sitting alone at the end of the long table: a broad, heavy, grey-whiskered man of fifty or so, with a stiff leg stuck out straight in front of him and a quarterstaff leaning against the bench. The carters nodded to him as they passed. The landlady called him Sergeant. He had, the priest learned in ten minutes of listening, been a sergeant of the marsh-road watch until a drover's bull broke his knee, and now the stallholders at Fendle market paid him a few coppers a week each to keep the peace on market days, and he did it, by all accounts, honestly and well, and had never once been known to take a bribe to look the other way.
+He was sitting alone at the end of the long table: a broad, heavy, grey-whiskered man of fifty or so, with a stiff leg stuck out straight in front of him and a quarterstaff leaning against the bench. The landlady called him Sergeant. He had been a sergeant of the marsh-road watch until a drover's bull broke his knee, and now the stallholders at Fendle market paid him to keep the peace on market days, and he had never once been known to take a bribe to look the other way.
 
 The priest felt him, and found him the way you find good timber. There was a debt in him, a small, nagging one: a daughter in Harnmouth, a dowry he could not make up. There was a weariness, the stiff knee aching in the wet. And under it, plain and solid as a keel, nothing much else. No rot. No drain. A man who would do what he said he would do.
 
@@ -62,7 +62,7 @@ The priest put a purse on the table between them. It was a small purse, and it w
 
 "Then watch whoever can. If anyone in that house lifts a hand against anyone, I want you to stop it, and send for the magistrate's men here in Fendle, and let the law have them." The priest paused. "Whoever it is."
 
-The sergeant looked at him for a long time. He had small, shrewd, pouched blue eyes, and the priest felt them trying to get hold of his face and sliding off.
+The sergeant's small shrewd eyes tried to get hold of the priest's face, and slid off.
 
 "Why?" said the sergeant. "What's a Brother of the Lantern want with Cade Rusk and a Sardhi jeweller?"
 
@@ -78,27 +78,27 @@ The sergeant was quiet a long moment. Then he put the purse inside his coat.
 
 It cost him a week.
 
-He had not planned for a week. There were bills of exchange in his case, drawn on the house of Moren, and a man in an office on Harbour Street who had perhaps two months left before the first of them fell due, and every day the priest spent on the marsh road was a day he did not spend on that. He told himself it did not matter; the bills were bought, they could wait. He told himself a great many things, sleeping in the hayloft of a farm two miles from the Dry Well, eating bread he begged at back doors to keep the face honest, holding the stillness hour after hour until the cold went into his bones and stayed there.
+He had not planned for a week. There were bills of exchange in his case, drawn on the house of Moren, and a man in an office on Harbour Street who had perhaps two months left before the first of them fell due, and every day the priest spent on the marsh road was a day he did not spend on that. He slept in the hayloft of a farm two miles from the Dry Well, eating bread he begged at back doors to keep the face honest, holding the stillness hour after hour until the cold went into his bones and stayed there.
 
 On the seventh night, the jeweller came.
 
-The priest felt him before he saw him: a small dry careful current coming up the road from the south in a hired gig, with a heavy iron box under the seat and a man's fear wrapped around it like a blanket. A cautious man. A man who had travelled with a strongbox for thirty years and slept with one eye open every night of them. He stopped at the Dry Well because it was raining again, and because the Crossed Keys was five miles further, and because the landlord, when he came out into the yard with a lantern, was so eager to have him that it would have seemed rude to go on.
+The priest felt him before he saw him: a small dry careful current coming up the road from the south in a hired gig, with a heavy iron box under the seat and a man's fear wrapped around it like a blanket. He stopped at the Dry Well because it was raining again, and the Crossed Keys was five miles further.
 
 An hour after him, a heavy man with a stiff leg limped in out of the rain and asked for a bed.
 
 The priest went and stood in the reeds on the far side of the Sallow dyke, across the road from the inn, in the dark, with the rain running down his shaved head, and waited.
 
-He felt it all. He did not need to see. The jeweller and Cade in the taproom, the scales on the table, the stone under the lamp; the long silence, the offer, the jeweller's dry voice saying a number, *forty-five thousand*, and the great slow lurch of want in Cade as he heard it, like a ship heeling. The money counted out of the strongbox. The strongbox closed, and the jeweller's fear tightening round it. The house going to bed. The jeweller's room at the top of the stair, the bolt shot on the door, which was a poor bolt in a poor door in a poor house. Garrow's room across the passage. Cade, drunk on his own beer and his own luck, asleep within minutes, snoring.
+He felt it all. He did not need to see. The jeweller and Cade in the taproom, the scales on the table, the stone under the lamp; the long silence, the offer, the jeweller's dry voice saying a number, *forty-five thousand*, and the great slow lurch of want in Cade as he heard it, like a ship heeling. The money counted out; the strongbox closed. The house going to bed. The jeweller's room at the top of the stair, the bolt shot on the door, which was a poor bolt in a poor door in a poor house. Garrow's room across the passage. Cade, drunk on his own beer and his own luck, asleep within minutes, snoring.
 
 And Agna Rusk, lying awake beside him in the dark, with her heart going like a bird's.
 
 At a little after one, she got up.
 
-He felt her go down to the kitchen. He felt her stand there a long time, at the table, by the knife block. He felt her want gather itself, and steady, and turn hard and cold and simple, the way his own had turned once in the taproom with Cade's blood under his hand: *it would be easy, it would be nothing.* He felt her take the long knife.
+He felt her go down to the kitchen. He felt her stand there a long time, at the table, by the knife block. He felt her want gather itself, and steady, and turn hard and cold and simple, the way his own had turned a week ago in the taproom, listening to Cade: *it would be easy, it would be nothing.* He felt her take the long knife.
 
 He felt something else, too. In himself. Rising.
 
-*Let her,* said the cold. *Let it close. You did not make her. You did not put the knife in her hand. She will go up those stairs, and the jeweller will die, and they will take Cade Rusk to the galleys or the rope, and he will have earned it nineteen years ago in the Three Anchors. Is that not justice? Is that not what you came out of the sea for? Stand still, little one. Only stand still. You need do nothing at all.*
+*Let her,* said the cold. *Let it close. You did not make her. You did not put the knife in her hand. She will go up those stairs, and the jeweller will die, and they will take Cade Rusk to the galleys or the rope, and he will have earned it fourteen years ago in the Three Anchors. Is that not justice? Is that not what you came out of the sea for? Stand still, little one. Only stand still. You need do nothing at all.*
 
 He stood very still in the reeds.
 
@@ -106,7 +106,7 @@ He stood very still in the reeds.
 
 He thought of a man with his head on a table in the Three Anchors, waking at midnight, seeing the corner empty, and going home to bed.
 
-He did not move. He did not reach. He did not need to: he had already done the one thing he could do, a week ago, in the Crossed Keys, with a purse of gold. Whatever happened now would happen without the sea in it. He stood in the reeds and held the stillness and let himself feel all of it, and did not let it become sweet.
+He did not reach. He did not need to: he had already done the one thing he could do, a week ago, in the Crossed Keys, with a purse of gold. Whatever happened now would happen without the sea in it. He stood in the reeds and held the stillness and let himself feel all of it, and did not let it become sweet.
 
 Agna went up the stair.
 
@@ -122,7 +122,7 @@ Agna screamed. It was not a frightened scream; it was rage, pure and high, like 
 
 Then a door, and stumbling feet, and Cade's voice, thick with sleep and beer: "What? What is it? Agna? What's—"
 
-The priest crossed the road. He did not mean to. He stood in the yard of the Dry Well under the creaking sign, in the dark, and through the crack of the shutter he could see the stairhead in the lantern light: the jeweller in his nightshirt in his doorway, clutching his strongbox; Garrow, heavy and patient, with the woman's wrist pinned in one fist and the lantern in the other; Agna, twisting, her shawl fallen, her face in the light so twisted with fury that it hardly looked like a face at all. And Cade, at the bottom of the stairs, in a dirty nightshirt, with his mouth open.
+The priest crossed the road. He did not mean to. He stood in the yard of the Dry Well under the creaking sign, in the dark, and through the crack of the shutter he could see the stairhead in the lantern light: the jeweller in his nightshirt in his doorway, clutching his strongbox; Garrow, heavy and patient, with the woman's wrist pinned in one fist and the lantern in the other; Agna, twisting, her shawl fallen, her face barely a face at all. And Cade, at the bottom of the stairs, in a dirty nightshirt, with his mouth open.
 
 "Cade," Agna was saying. "Cade, tell him. Tell him I was going to the privy. Tell him it's a mistake. Tell him, you fat useless—it's *ours*, Cade, ninety thousand in that box, *ours*, tell him—"
 
@@ -130,7 +130,7 @@ The priest crossed the road. He did not mean to. He stood in the yard of the Dry
 
 And Cade Rusk stood at the bottom of his own stairs, with the whole of his life behind him like a road he had walked with his eyes on his feet, and said nothing.
 
-The priest watched him say nothing. He watched it go on, the silence, one breath, two, three, the old habit closing over Cade like water over a dropped stone. He felt the muddle in the man go round and round. Fear of her. Fear of the sergeant. Fear of the law, of the galleys, of being seen, of being *involved*. He knew exactly what Cade would do. He had always known.
+The priest watched him say nothing. He watched it go on, the silence, one breath, two, three, the old habit closing over Cade like water over a dropped stone. Fear of her. Fear of the sergeant. Fear of being seen, of being *involved*. He knew exactly what Cade would do. He had always known.
 
 Cade opened his mouth.
 
@@ -144,11 +144,11 @@ Out in the yard, in the dark, the priest let out a breath he did not know he had
 
 ---
 
-The magistrate's men came from Fendle at dawn with a cart, and took Agna Rusk away in it with her hands tied in front of her and her shawl over her head. The jeweller left an hour later, very fast, in the other direction, without paying for his room. Garrow limped out last, with his quarterstaff on his shoulder, and stopped in the road, and looked across at the reeds on the far side of the dyke for a while, and nodded once to nobody, and walked on north.
+The magistrate's men came from Fendle at dawn with a cart, and took Agna Rusk away in it with her hands tied. The jeweller left an hour later, very fast, without paying for his room. Garrow limped out last, with his quarterstaff on his shoulder, and stopped in the road, and looked across at the reeds on the far side of the dyke for a while, and nodded once to nobody, and walked on north.
 
 Cade Rusk sat on the step of the Dry Well in the grey light, in his nightshirt and a coat, with forty-five thousand marks in a leather bag between his feet that nobody had taken from him, and looked at the empty road.
 
-Once, he looked up, and saw a figure standing on the crown of the dyke by the old sluice-gate: grey, and still, and blurred by the drizzle, so that he could not tell whether it was a man or a post. He looked at it for a long time.
+Once, he looked up, and saw a figure on the crown of the dyke by the old sluice-gate, grey and still and blurred by the drizzle, so that he could not tell whether it was a man or a post.
 
 When he looked again, there was nobody there.
 
