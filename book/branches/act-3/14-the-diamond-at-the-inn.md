@@ -52,7 +52,7 @@ The priest went and sat down across from him.
 
 The sergeant looked at him, at the grey robe and the bare muddy feet and the brass lantern, and his eyebrows went up. "Hire me, Brother? With what? Prayers?"
 
-The priest put a purse on the table between them. It was a small purse, and it was very heavy, and when the sergeant opened it a crack and looked inside, his face did not change at all, which the priest liked. He closed it again.
+The priest put a small, heavy purse on the table. The sergeant opened it a crack, and his face did not change at all, which the priest liked.
 
 "That's a year's wages," said the sergeant quietly. "Two."
 
@@ -130,7 +130,7 @@ The priest crossed the road. He did not mean to. He stood in the yard of the Dry
 
 And Cade Rusk stood at the bottom of his own stairs, with the whole of his life behind him like a road he had walked with his eyes on his feet, and said nothing.
 
-The priest watched him say nothing. He watched it go on, the silence, one breath, two, three, the old habit closing over Cade like water over a dropped stone. Fear of her. Fear of the sergeant. Fear of being seen, of being *involved*. He knew exactly what Cade would do. He had always known.
+The silence went on, one breath, two, three, the old habit closing over Cade like water over a dropped stone. Fear of her. Fear of the sergeant. Fear of being seen, of being *involved*. He knew exactly what Cade would do. He had always known.
 
 Cade opened his mouth.
 
