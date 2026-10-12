@@ -11,6 +11,8 @@ The user requested left, right, rear and top-down views of the [approved base](.
 
 [prompts.json](prompts.json) records the exact final prompt for each view. All four PNGs retain their generated 1536×1024 resolution without resizing or image edits. Earlier rejected overhead attempts are not included.
 
+User follow-up: [wider overhead view](saltmere-top-down-zoom-out-50.png), generated with the top-down PNG attached and a requested 50% reduction in linear scene scale. [Exact zoom-out prompt](top-down-zoom-out-prompt.txt). It reveals additional town approaches and shoreline; the expanded surroundings are inferred, and zoom scale is approximate.
+
 ## Shared layout anchors
 
 For orientation, north means inland/uphill and south means the foreground harbour approach in the approved base. These are reconstruction coordinates, not a claim about the novel's geographic compass.
