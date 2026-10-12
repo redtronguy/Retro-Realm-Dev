@@ -70,7 +70,7 @@ The sergeant's small shrewd eyes tried to get hold of the priest's face, and sli
 
 The sergeant was quiet a long moment. Then he put the purse inside his coat.
 
-"Ansel Garrow," he said, and held out his hand, a big square hand, hard as a plank. "I'll watch him for you, Brother. And whoever else needs watching." He paused. "You'll want to know how it goes?"
+"Bram Tolly," he said, and held out his hand, a big square hand, hard as a plank. "I'll watch him for you, Brother. And whoever else needs watching." He paused. "You'll want to know how it goes?"
 
 "I'll know," said the priest.
 
@@ -88,7 +88,7 @@ An hour after him, a heavy man with a stiff leg limped in out of the rain and as
 
 The priest went and stood in the reeds on the far side of the Sallow dyke, across the road from the inn, in the dark, with the rain running down his shaved head, and waited.
 
-He felt it all. He did not need to see. The jeweller and Cade in the taproom, the scales on the table, the stone under the lamp; the long silence, the offer, the jeweller's dry voice saying a number, *forty-five thousand*, and the great slow lurch of want in Cade as he heard it, like a ship heeling. The money counted out; the strongbox closed. The house going to bed. The jeweller's room at the top of the stair, the bolt shot on the door, which was a poor bolt in a poor door in a poor house. Garrow's room across the passage. Cade, drunk on his own beer and his own luck, asleep within minutes, snoring.
+He felt it all. He did not need to see. The jeweller and Cade in the taproom, the scales on the table, the stone under the lamp; the long silence, the offer, the jeweller's dry voice saying a number, *forty-five thousand*, and the great slow lurch of want in Cade as he heard it, like a ship heeling. The money counted out; the strongbox closed. The house going to bed. The jeweller's room at the top of the stair, the bolt shot on the door, which was a poor bolt in a poor door in a poor house. Tolly's room across the passage. Cade, drunk on his own beer and his own luck, asleep within minutes, snoring.
 
 And Agna Rusk, lying awake beside him in the dark, with her heart going like a bird's.
 
@@ -118,15 +118,15 @@ And across the passage, another door opened, and a lantern came out of it, and a
 
 He heard it from the road. Everyone within a mile must have heard it.
 
-Agna screamed. It was not a frightened scream; it was rage, pure and high, like a gull's, and it went on and on. The jeweller's voice, shrill behind his door, crying out in Sardhi. Something falling. And Garrow's voice, very calm, very loud, the voice of a sergeant of the watch: *Drop it, mistress. Drop it now, or I'll break the arm and you'll drop it anyway.* The clatter of the knife on the boards.
+Agna screamed. It was not a frightened scream; it was rage, pure and high, like a gull's, and it went on and on. The jeweller's voice, shrill behind his door, crying out in Sardhi. Something falling. And Tolly's voice, very calm, very loud, the voice of a sergeant of the watch: *Drop it, mistress. Drop it now, or I'll break the arm and you'll drop it anyway.* The clatter of the knife on the boards.
 
 Then a door, and stumbling feet, and Cade's voice, thick with sleep and beer: "What? What is it? Agna? What's—"
 
-The priest crossed the road. He did not mean to. He stood in the yard of the Dry Well under the creaking sign, in the dark, and through the crack of the shutter he could see the stairhead in the lantern light: the jeweller in his nightshirt in his doorway, clutching his strongbox; Garrow, heavy and patient, with the woman's wrist pinned in one fist and the lantern in the other; Agna, twisting, her shawl fallen, her face barely a face at all. And Cade, at the bottom of the stairs, in a dirty nightshirt, with his mouth open.
+The priest crossed the road. He did not mean to. He stood in the yard of the Dry Well under the creaking sign, in the dark, and through the crack of the shutter he could see the stairhead in the lantern light: the jeweller in his nightshirt in his doorway, clutching his strongbox; Tolly, heavy and patient, with the woman's wrist pinned in one fist and the lantern in the other; Agna, twisting, her shawl fallen, her face barely a face at all. And Cade, at the bottom of the stairs, in a dirty nightshirt, with his mouth open.
 
 "Cade," Agna was saying. "Cade, tell him. Tell him I was going to the privy. Tell him it's a mistake. Tell him, you fat useless—it's *ours*, Cade, ninety thousand in that box, *ours*, tell him—"
 
-"Landlord," said Ansel Garrow, without looking round. "Did you know of this?"
+"Landlord," said Bram Tolly, without looking round. "Did you know of this?"
 
 And Cade Rusk stood at the bottom of his own stairs, with the whole of his life behind him like a road he had walked with his eyes on his feet, and said nothing.
 
@@ -144,7 +144,7 @@ Out in the yard, in the dark, the priest let out a breath he did not know he had
 
 ---
 
-The magistrate's men came from Fendle at dawn with a cart, and took Agna Rusk away in it with her hands tied. The jeweller left an hour later, very fast, without paying for his room. Garrow limped out last, with his quarterstaff on his shoulder, and stopped in the road, and looked across at the reeds on the far side of the dyke for a while, and nodded once to nobody, and walked on north.
+The magistrate's men came from Fendle at dawn with a cart, and took Agna Rusk away in it with her hands tied. The jeweller left an hour later, very fast, without paying for his room. Tolly limped out last, with his quarterstaff on his shoulder, and stopped in the road, and looked across at the reeds on the far side of the dyke for a while, and nodded once to nobody, and walked on north.
 
 Cade Rusk sat on the step of the Dry Well in the grey light, in his nightshirt and a coat, with forty-five thousand marks in a leather bag between his feet that nobody had taken from him, and looked at the empty road.
 

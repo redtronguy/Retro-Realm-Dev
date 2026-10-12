@@ -146,7 +146,7 @@ He wrapped it up, and put it in the pocket of his green coat, and went back to h
 
 ---
 
-There was a shop on Harbour Street, three doors down from the house of Moren, that had been there when he was a boy: a dark, crowded, low-ceilinged place that sold ships' salvage and sailors' curios and anything else a man might bring in off a boat. Brass lamps from wrecks. Carved whale-teeth. Southern idols and northern knives. As a boy he had pressed his nose against its window. The name over the door was the same, *Hobb, Dealer*, but the Hobb behind the counter was the son, grown fat and bald, and he did not know the foreign banker in the green coat who came in at nine in the morning and laid a bundle on the counter and unwrapped it.
+There was a shop on Harbour Street, three doors down from the house of Moren, that had been there when he was a boy: a dark, crowded, low-ceilinged place that sold ships' salvage and sailors' curios and anything else a man might bring in off a boat. Brass lamps from wrecks. Carved whale-teeth. Southern idols and northern knives. As a boy he had pressed his nose against its window. The name over the door was the same, *Gedge, Dealer*, but the Gedge behind the counter was the son, grown fat and bald, and he did not know the foreign banker in the green coat who came in at nine in the morning and laid a bundle on the counter and unwrapped it.
 
 The dealer looked at it. Then he looked at it again, more carefully, and took his hands off the counter.
 
@@ -178,7 +178,7 @@ But something had gone. He felt it go, standing in the nave, like warmth going o
 
 He walked out into the sun, and down the hill to the harbour, and took a boat out to the *Slip*, and did not look towards the Weir.
 
-Behind him, on the end of the walkway, Old Ysolde sat in her shawls in the morning light with her white eyes open, and listened to the water, and did not hear what she had been waiting fourteen years to hear: a crown on the tide. She listened for three days. On the fourth, a Bettan grandson came out along the walkway, breathless, and told her what was sitting in the window of Hobb's on Harbour Street, with a card beside it in a cramped hand.
+Behind him, on the end of the walkway, Old Ysolde sat in her shawls in the morning light with her white eyes open, and listened to the water, and did not hear what she had been waiting fourteen years to hear: a crown on the tide. She listened for three days. On the fourth, a Bettan grandson came out along the walkway, breathless, and told her what was sitting in the window of Gedge's on Harbour Street, with a card beside it in a cramped hand.
 
 She did not say anything. She turned her face to the sea and sat very still. And that winter, before she died, she told the Bettans to go west, to the place where the water was awake; but she would not say his name.
 
@@ -198,7 +198,7 @@ There was only one person in the world Old Ysolde would have given it to.
 
 She came to him that night, late, in the dark, in the study of the house with the blue door. She did not sit down.
 
-"Three marks," said Mira. Her voice was perfectly steady. "Gran kept it fourteen years. In a chest, by her chair, through every winter. She made it with her own hands when she could still see. And you sold it to Hobb's for three marks, and had him write our name in his book." She looked at him with her dark green eyes. "I could forgive you a great many things, Edric. I've been lying awake working out how many. I don't know if I can forgive you that."
+"Three marks," said Mira. Her voice was perfectly steady. "Gran kept it fourteen years. In a chest, by her chair, through every winter. She made it with her own hands when she could still see. And you sold it to Gedge's for three marks, and had him write our name in his book." She looked at him with her dark green eyes. "I could forgive you a great many things, Edric. I've been lying awake working out how many. I don't know if I can forgive you that."
 
 He had no answer. He found, standing there with the Tidemark cold on his cheek, that he could no longer remember what had seemed so clear under the lamp on the harbour front.
 

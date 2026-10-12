@@ -48,7 +48,7 @@ Bastien Corso stood up. He was not a man who made speeches; he stood there by th
 
 "I'll not forget it," he said. "Whatever comes after. I'll not forget it, Warden."
 
-He sailed on the morning tide, in a fast lugger from the Cristal fleet with a crew of four who asked no questions, and a hold of good northern wine, and a set of papers in the name of Tobin Ashe, vintner, of Harrowgate. Faro stood on the harbour wall and watched him go. Jac, beside him, said nothing at all, which was not like her.
+He sailed on the morning tide, in a fast lugger from the Cristal fleet with a crew of four who asked no questions, and a hold of good northern wine, and a set of papers in the name of Tobin Marsh, vintner, of Harrowgate. Faro stood on the harbour wall and watched him go. Jac, beside him, said nothing at all, which was not like her.
 
 "You think I'm wrong," said Faro.
 
@@ -134,7 +134,7 @@ Bastien looked at him, and then at the bowl of still water on the shelf, and und
 
 There was a silence.
 
-"I thought I'd feel it," said Bastien Corso. He said it quite flatly, without self-pity, like a man reporting the weather. "Twenty-five years. I thought it'd be like putting down a weight." He looked at his own hands. "It's not. It's like putting down a weight and finding you can't stand up straight without it." And then, after a moment: "There's a Radiant inquiry. The King's ordered it. They're looking for a vintner from Harrowgate called Tobin Ashe, who left Solace by sea the morning after." He met Faro's eyes. "They'll not find him. But they'll look."
+"I thought I'd feel it," said Bastien Corso. He said it quite flatly, without self-pity, like a man reporting the weather. "Twenty-five years. I thought it'd be like putting down a weight." He looked at his own hands. "It's not. It's like putting down a weight and finding you can't stand up straight without it." And then, after a moment: "There's a Radiant inquiry. The King's ordered it. They're looking for a vintner from Harrowgate called Tobin Marsh, who left Solace by sea the morning after." He met Faro's eyes. "They'll not find him. But they'll look."
 
 ### Later
 

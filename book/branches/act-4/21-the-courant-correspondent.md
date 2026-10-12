@@ -6,13 +6,13 @@
 
 Bastien brought the card up at ten in the morning, holding it by one corner, the way he held anything he would rather have dropped in the sea.
 
-*Mr Ansel Tarrow. The Solace Courant. The Exchange and the Town.*
+*Mr Oswin Tarrow. The Solace Courant. The Exchange and the Town.*
 
 "He's in the courtyard," said Bastien. "He says he'll wait. He says he's very good at waiting." He paused. "He's been at the gate since seven. He was at Grey Point yesterday. One of Rook's lads saw him at the inn, asking about a carriage with silver on the harness."
 
 Edric looked at the card for a long moment. Then he took the bowl from the corner of the desk and found the stillness in it, and went down.
 
-Ansel Tarrow was sitting on the edge of the black marble pool with his hat beside him, watching the fountain dance. He was perhaps thirty: a thin, untidy, quick-eyed man in a coat that had been good two winters ago, with ink on his cuffs and on the side of his middle finger where the pen rested, and a notebook on his knee. He did not get up when the Count came down the stair. He finished writing a line, and closed the notebook on his thumb, and then he got up.
+Oswin Tarrow was sitting on the edge of the black marble pool with his hat beside him, watching the fountain dance. He was perhaps thirty: a thin, untidy, quick-eyed man in a coat that had been good two winters ago, with ink on his cuffs and on the side of his middle finger where the pen rested, and a notebook on his knee. He did not get up when the Count came down the stair. He finished writing a line, and closed the notebook on his thumb, and then he got up.
 
 "My lord Count. Thank you for seeing me. I'll be quick, because I've a column to write, and I'd like to know before I write it whether I'm going to be sued or shot." He smiled, a crooked, tired, likeable smile. "I write the exchange column. Prices, rumours, who's lending to whom. Dull work. But you notice things, doing it. You notice, for instance, when a steward with a scar across his throat takes a cart of gold out of the house of Quell every week for a month, under armed guard. Three million eight hundred thousand marks, by my count. You notice when the Lord Treasurer stops coming to the exchange in person and starts sending his chief clerk. You notice when a mirror fault at Grey Point costs the house of Quell a million marks in an afternoon, and nobody else in Solace loses a copper." He opened the notebook. "And when you go down to Grey Point yourself, because you're curious, you find the keeper gone and his rooms swept, and an innkeeper who remembers a tall gentleman in black who stayed two nights, a week apart, and had a carriage with silver on the harness, and paid in Port Jasmine gold." He looked up. "Tampering with the King's mirrors is treason, my lord. They hang you for it. On the Sunspire steps, at noon."
 
@@ -68,7 +68,7 @@ When he had gone, Edric opened the notebook. It was very good. Dates, sums, name
 
 He fed it to the brazier in the study, page by page, and watched it burn, and felt nothing much at all. It had cost him less than one of his dinners. The money did not matter. It never did.
 
-What stayed with him, afterwards, was how easy it had been. How quickly the man had folded. How little Edric had needed to reach. He had seen the price in him the moment he walked in, the way you see a fish's shadow under clear water, and he had named it, and that was all. Fifteen thousand marks and a thousand a month, and Ansel Tarrow, who had come to the house with a speech about the freedom of the press, had gone away with a pension and a master.
+What stayed with him, afterwards, was how easy it had been. How quickly the man had folded. How little Edric had needed to reach. He had seen the price in him the moment he walked in, the way you see a fish's shadow under clear water, and he had named it, and that was all. Fifteen thousand marks and a thousand a month, and Oswin Tarrow, who had come to the house with a speech about the freedom of the press, had gone away with a pension and a master.
 
 *Everyone has a price,* he thought, and did not like the voice he thought it in. It was not his. It was the voice of a man in a warm study in Saltmere, holding a letter to a fire.
 
@@ -130,7 +130,7 @@ He was cold. He was colder than Grey Point. And there was something in his head 
 
 It was not his. It had come back with him, up out of the man's waters, the way the sea's sickness had come up out of the child. *What is sent is not always all returned,* the books said. They did not say that what came back might be someone else's.
 
-He sat on the floor with his arms around his knees and listened to Ansel Tarrow's mother sing, and could not make her stop.
+He sat on the floor with his arms around his knees and listened to Oswin Tarrow's mother sing, and could not make her stop.
 
 ### Later
 
@@ -166,7 +166,7 @@ And then he told him about the Blight Fund. Six million marks, raised every year
 
 He did not tell him his own name. He did not tell him about Saltmere, or the Keep, or the letter. That was his. But he told him everything else.
 
-It took three hours. When he had finished, Ansel Tarrow sat in the chair across the desk with his notebook closed on his knee, and had not written a word in it for an hour, and his face was grey.
+It took three hours. When he had finished, Oswin Tarrow sat in the chair across the desk with his notebook closed on his knee, and had not written a word in it for an hour, and his face was grey.
 
 "You can't prove it," he said at last. His voice was hoarse. "The Drying. The King. You can't prove any of it. It's a book no one can read, and the word of a foreigner who rigs the mirrors."
 

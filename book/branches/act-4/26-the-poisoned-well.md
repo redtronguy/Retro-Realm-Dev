@@ -174,7 +174,7 @@ Master Wilde ran it himself.
 
 He stood behind the counter most mornings in his spectacles and his fussy foreign coat, with a pen behind his ear and a ledger he did not need, and sold flour to the bakers of Lowharbour at two pennies a measure under the Baron's price. Then three. The bakers did not trust him at first. They came in, one or two, and fingered the sacks, and smelled the flour, and asked what was wrong with it. Then they bought a little, and baked it, and came back.
 
-The first to come back was a widow called Pell, who kept an oven at the top of Tanners' Lane and had fed half the street on credit through two winters. She was a big, slow, grey-haired woman with forearms like a docker's and flour in the creases of her knuckles that would never wash out, and she stood at Master Wilde's counter for a long time, looking at him over the sacks.
+The first to come back was a widow called Pask, who kept an oven at the top of Tanners' Lane and had fed half the street on credit through two winters. She was a big, slow, grey-haired woman with forearms like a docker's and flour in the creases of her knuckles that would never wash out, and she stood at Master Wilde's counter for a long time, looking at him over the sacks.
 
 "You're losing money on every measure," she said at last. "I can count, mister. I know what it costs to bring wheat up from Mazrah. You're selling it for less than the freight."
 
@@ -186,7 +186,7 @@ He thought about it, polishing his spectacles.
 
 "I had a father," he said, "who went hungry once, for want of a few marks that a cleverer man had put somewhere else. I've never forgiven the cleverer man. This seems a better way of saying so than some I could think of."
 
-Widow Pell looked at him for a long moment with her small shrewd eyes. Then she bought twelve sacks, and paid in copper, and went away up Tanners' Lane without another word. The next morning, there were fourteen bakers in the shop.
+Widow Pask looked at him for a long moment with her small shrewd eyes. Then she bought twelve sacks, and paid in copper, and went away up Tanners' Lane without another word. The next morning, there were fourteen bakers in the shop.
 
 ---
 
@@ -230,7 +230,7 @@ He went out. Edric watched him go, down the Salt Quay, past his own seven granar
 
 He did match the price. He had to. He matched it the next morning, and the morning after, and for every penny he took off his bread, Edric felt it: a thin new crack, very far down, in the great house of white marble. Not a flood. Nothing so quick. Only grain sitting in sheds that had been bought dear and must now be sold cheap, against notes that had been written on its old value, month after month, while the drafts from the Count of Cristal kept coming. It would take a season. Perhaps more. It would cost Cristal its wall.
 
-That night, for the first time since he had come to Solace, the Count of Cristal ate his supper at his own table in company, a plain loaf from Widow Pell's oven, and Hayda watched him do it, and said nothing, and passed the salt.
+That night, for the first time since he had come to Solace, the Count of Cristal ate his supper at his own table in company, a plain loaf from Widow Pask's oven, and Hayda watched him do it, and said nothing, and passed the salt.
 
 ### Later
 
@@ -242,10 +242,10 @@ Jac saw them first, from the ruined harbour tower, and swore, and rang the bell,
 
 The barge came alongside what was left of the quay. A big, slow, grey-haired woman stood in its bow with her forearms folded.
 
-"We heard you were hungry," said Widow Pell. She looked up the quay at the thin grey man standing at the end of it with the Tidemark gone from his face, and narrowed her small shrewd eyes. "You'll be Master Wilde, then. Without the spectacles." She sniffed. "The bakers' guild of Lowharbour sends forty tons of flour, at cost. Freight's paid. We had a whip-round." She jerked her head at the boats behind her. "Some of the lads brought fish. They said the sea's full of it, all of a sudden. They didn't know why."
+"We heard you were hungry," said Widow Pask. She looked up the quay at the thin grey man standing at the end of it with the Tidemark gone from his face, and narrowed her small shrewd eyes. "You'll be Master Wilde, then. Without the spectacles." She sniffed. "The bakers' guild of Lowharbour sends forty tons of flour, at cost. Freight's paid. We had a whip-round." She jerked her head at the boats behind her. "Some of the lads brought fish. They said the sea's full of it, all of a sudden. They didn't know why."
 
 Edric stood on the quay and found that he could not speak.
 
-"Well," said Widow Pell. "Are you going to help unload it, or stand there?"
+"Well," said Widow Pask. "Are you going to help unload it, or stand there?"
 
 He helped unload it. It took all day. Tam stood at the top of the quay with a ledger, writing down every sack, and when it was done he closed the book and looked at Edric for a long time, and then said, with a great deal of dignity: "The harbour wall can wait until next summer."
