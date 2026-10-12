@@ -2,7 +2,7 @@
 id: T-011
 title: Concept mockups for the 15 main locations
 owner: codex
-status: todo
+status: in-progress
 branch: codex/location-mockups
 pr:
 depends_on: []
