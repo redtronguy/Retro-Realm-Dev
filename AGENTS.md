@@ -17,7 +17,8 @@ project's novel, *The Tidebound Count* (`book/`). There is no city-builder (D12)
   depend on the engine chosen in Q12.
   Single-player (decided 2026-10-12; multiplayer is shelved, see D10).
 - **Builds:** in the cloud through CI pipelines (GitHub Actions).
-- **Visual target:** SNES (256×224, 16-colour palettes, layered backgrounds).
+- **Visual target:** HD-2D like *Octopath Traveler* (D15): pixel-art characters in a
+  lit 3D world. The old SNES target (D2) is superseded.
 
 Settled and open decisions are in [`.collab/decisions.md`](.collab/decisions.md).
 Check it before proposing anything architectural.
