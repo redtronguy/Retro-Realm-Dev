@@ -15,6 +15,7 @@ Settled decisions are final unless the user reopens them. Agents may add to
 | D6 | 2026-10-09 | Core gameplay loop: build the city (roads, R/C/I zones growing by demand, shared treasury) by day; adventure and defend at night (monsters raid buildings into rubble; loot feeds the treasury). | Validated in the C prototype. |
 | D7 | 2026-10-09 | Art is authored in **Aseprite**, imported by a build step. AI images are concept/mood references only. | |
 | D8 | 2026-10-11 | Story basis: ***The Tidebound Count***, an original fantasy reimagining of *The Count of Monte Cristo* (public domain) with powers. Claude writes the novel first in `book/`; the game is adapted from it after the user has read it. | User request. Bible: `book/bible.md`. Don't adapt game content from the book until the user signs off. |
+| D9 | 2026-10-12 | **Choices are a core mechanic**, like *Fable*: moral choices shape the hero, a skill tree has good and bad paths, and players can pursue different paths and endings. | User request, inspired by Codex's alternate ending. Proposal: `design/choices-and-morality.md` (two dials, Tide and Heart; four endings; Warden vs Tide-taken skill branches). Details are open questions Q8–Q11. |
 
 ## Open questions (waiting on the user)
 
@@ -22,6 +23,10 @@ Settled decisions are final unless the user reopens them. Agents may add to
 - **Q2 Roles:** does everyone both build and fight, or are there mayor/hero roles?
 - **Q3 World model:** one persistent shared world, or session-based worlds? Players per world?
 - **Q4 Combat:** bump-to-attack (prototype) or action combat? Separate dungeon interiors?
-- **Q5 Progression:** quests, factions, crafting, shop economy?
+- **Q5 Progression:** quests, factions, crafting, shop economy? (Partly answered by D9: a morality-driven skill tree.)
 - **Q6 ESP32 hardware:** which board and display? ESP32-S3 with PSRAM is the comfortable SNES target.
 - **Q7 Work split** between Claude and Codex (see `tasks/`).
+- **Q8 Morality model:** two dials (Tide + Heart, four endings) or one good/evil line? See `design/choices-and-morality.md`.
+- **Q9 Player character:** play as Edric, or as a new Tidebound hero in Edric's world?
+- **Q10 Reversibility:** fully reversible with effort, or locked after key choices?
+- **Q11 Multiplayer choices:** vote, a single "Warden" player per world, or a personal copy of the story for each player?
