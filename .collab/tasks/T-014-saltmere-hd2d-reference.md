@@ -18,3 +18,5 @@ User asked to commit the approved HD-2D harbour image for Claude's Unreal work (
 ## Result
 
 Reference, exact prompt and Unreal movement notes saved in `design/references/saltmere-hd2d/`. Original PNG verified at 1536×1024; documentation links checked. No game code changed.
+
+User follow-up: added four reference-based camera views (left, right, rear, top-down) under `views/`, with exact prompts, orientation anchors and notes on generation drift. All final view PNGs verified at 1536×1024. Existing approved base preserved.

@@ -4,6 +4,8 @@
 
 The user approved this generated image and explicitly asked for it to be committed for Claude's Unreal harbour look test, T-013. Preserve this reference at its original 1536×1024 resolution; [prompt.txt](prompt.txt) contains the exact prompt used. The image is a target for the look and composition, not a production texture or a collision map.
 
+Additional [left, right, rear and top-down camera references](views/README.md) show the intended movement connections and elevations. Their README explains how to reconcile generation differences into one consistent Unreal blockout.
+
 ## Appearance to carry into Unreal
 
 - Pixel-art characters against dimensional buildings, terrain and ships; fixed elevated three-quarter camera.
