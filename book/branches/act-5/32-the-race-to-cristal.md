@@ -18,11 +18,11 @@ He did not push.
 
 He stood at the bow with his hands on the rail and thought, instead, about a library. A bed in the corner by the fire. Jac in a chair beside it, with a mirror she had been told not to use. And on the floor by the hearth, where she was not supposed to be, a small girl with a book open on her knees.
 
-Nessa Bettan was nine. She was the youngest of Old Bettan's granddaughters, the last of the swarm of children the old woman had brought west in a fishing boat in the second year, and she was the worst pupil in Tam's school, Tam said, because she would not sit still, and the best, because she read everything. She had taught herself the Weir-tongue letters out of the old books in the library before Tam had finished teaching her the common ones. She had come up the citadel stair one winter night with a lamp, two years ago, and found the Warden alone in the library, and stood in the doorway, and asked him why the sea in the cave under the island was crying.
+Nessa Bettan was nine. She was the youngest of Old Bettan's granddaughters, the last of the swarm of children the old woman had brought west in a fishing boat in the second year, and she was the worst pupil in Tam's school, Tam said, because she would not sit still, and the best, because she read everything. She had come up the citadel stair one winter night with a lamp, two years ago, and found the Warden alone in the library, and stood in the doorway, and asked him why the sea in the cave under the island was crying.
 
 Not singing, as it had sung when they first came. Crying. She could hear it, she said. At night, mostly, with her feet in the water. Her great-grandmother had heard it too, Gran said, and her great-great-grandmother, back and back, all the way to the old days. It was in the Weir blood, a little, in some of them. Like an ear for music.
 
-He had told her it was only the tide in the rocks. She had looked at him with her small brown Weir-folk face and said, quite politely, that he was lying, and gone back down the stair.
+He had told her it was only the tide in the rocks. She had said, quite politely, that he was lying, and gone back down the stair.
 
 He had not forgotten it.
 
@@ -42,11 +42,11 @@ He waited until dark.
 
 Then he went down to the captain's cabin, and filled a bowl from the water cask, and added seawater from a bucket over the side, half and half, the way the books said, and set it on the table, and sat in front of it with his hands flat on either side.
 
-He had scried before. He had watched Dorran Quell sit on the edge of his bed in the white marble house, and Corvan Valtor in his study, and the money of Solace turning in the dark like a shoal. But that was looking. That was Still Water: making himself a surface and letting the world fall into it. This was the other way round. He had never tried to make himself heard.
+He had scried before, many times. But that was looking: making himself a surface and letting the world fall into it. He had never tried to make himself heard.
 
 He breathed. In for eight. Out for eight. He went down into the stillness, past the cold, past the mud and stones and weed of what was left of him, and reached out along the thread beside his heart. The thread that went three hundred miles west across the sea to a girl on a bed in a library. He followed it, as a man follows a rope in the dark, hand over hand. And at the far end of it, beside the bed, by the fire, he felt the water in the room. The water in Jac, tired and fierce and frightened. And the water in the jug on the table, and in the wet stone of the hearth where somebody had spilled it, and in the small body on the floor with a book on its knees.
 
-He did not push. He did not have enough to push, and if he had, it would have been the wrong thing. A tide-taken voice at full strength, coming out of the water at a child of nine, would have been a storm in her head. She would have run screaming. Or worse. He did not want to be a storm. He wanted to be what Faro had been, through the wall of a cell, on the first day: a scratching. Small and patient and persistent, so that you had to listen to hear it at all.
+He did not push. A tide-taken voice at full strength, coming out of the water at a child of nine, would have been a storm in her head. He did not want to be a storm. He wanted to be what Faro had been, through the wall of a cell, on the first day: a scratching. Small and patient and persistent, so that you had to listen to hear it at all.
 
 He made himself very small.
 
@@ -58,7 +58,7 @@ On Cristal, three hundred miles away, by the fire in the library, a little girl 
 
 It took him three nights to teach her to hear him properly, and four more to teach her to breathe.
 
-She was frightened on the first night. She went and sat in Jac's lap, which she had never done before, and would not say why. On the second night she went down to the harbour after dark with a lamp, alone, to the inner end of the hook where her family's stilt-house stood in the shallow water, and sat on the edge of the landing stage with her feet in the sea, the oldest way of sitting, and listened. And on the third night, she said, out loud, to the dark water, in a small cross voice: "If it's you, Warden, then stop mumbling."
+She was frightened on the first night. On the second night she went down to the harbour after dark with a lamp, alone, to the inner end of the hook where her family's stilt-house stood in the shallow water, and sat on the edge of the landing stage with her feet in the sea, the oldest way of sitting, and listened. And on the third night, she said, out loud, to the dark water, in a small cross voice: "If it's you, Warden, then stop mumbling."
 
 He laughed, in the cabin of the *Faro*, three hundred miles away, with his hands on either side of the bowl. Rashid, passing the door, stopped, and listened, and went on, shaking his head.
 
@@ -86,11 +86,11 @@ He was quiet a moment, in the cabin of the *Faro*.
 
 *Yes,* he said. *How did you know that?*
 
-"You're cold," said Nessa simply. "When you talk. Your voice is cold. Gran says the Warden goes about cold as a fish and nobody's to say anything about it." She pulled her knees up. "What do I have to do?"
+"You're cold," said Nessa simply. "When you talk. Gran says the Warden goes about cold as a fish and nobody's to say anything about it." She pulled her knees up. "What do I have to do?"
 
 *There's a book on the third shelf from the window, near the top. Green leather. Tam won't let you have it. Get it anyway.*
 
-She got it. She climbed the shelves, the way she had been told not to a hundred times, and brought it down, and sat by the fire with it open on her knees, and found the page, and read it out loud to him, slowly, in the Weir-tongue letters that she had taught herself out of these same books. *On the Discipline of Still Water. The Waking.*
+She got it. She climbed the shelves, the way she had been told not to a hundred times, and sat by the fire with it open on her knees, and found the page, and read it out loud to him, slowly, in the Weir-tongue letters Tam had taught her. *On the Discipline of Still Water. The Waking.*
 
 "*As the Warden stilled the waters by his own stillness,*" read Nessa Bettan, "*so he must wake them by his own motion. Let the Warden be the tide that comes in. Let him move, and let the other's waters remember how to move with him.*" She looked up. "What does that mean?"
 
@@ -116,7 +116,7 @@ It went at noon, off a reef with no name a hundred miles east of the Reach, and 
 
 He did not do anything.
 
-He felt the sea under the keel, waiting. He felt how easy it would be. He could have them moving again in a heartbeat. He could have them at Cristal by morning, if he poured enough of himself into it; he would arrive emptied out and filled up again with the Deep to the brim, and kneel by the bed, and reach, and perhaps there would be nothing left of him that knew how. He did not know. That was the trouble with the sea. You never knew until it was in you.
+He felt the sea under the keel, waiting. He could have them moving again in a heartbeat. He could have them at Cristal by morning, and arrive filled to the brim with the Deep, and kneel by the bed, and reach, and perhaps find nothing left of him that knew how. That was the trouble with the sea. You never knew until it was in you.
 
 He went below. He filled the bowl. And he sat in front of it all afternoon, while the ship lay becalmed and the sun went down red into the west, and held the thread.
 
@@ -132,7 +132,7 @@ It was very small. A child's tide, coming in over a child's beach. He felt it go
 
 *Keep going,* he said into the bowl. *Keep going. Don't stop.*
 
-She did not stop. He felt her get tired. He felt her get frightened, and the stillness wobble, and steady again. He felt her start to cry and not stop moving. In, and out. In, and out. An hour. More. He felt Jac wake in the chair and see what she was doing and come to the bed and not touch her, not say anything, only kneel beside it with her face in her one good hand.
+She did not stop. He felt her get tired, and frightened, and start to cry, and not stop moving. In, and out. An hour. More. He felt Jac wake in the chair and see what she was doing and come to the bed and not touch her, not say anything, only kneel beside it with her face in her one good hand.
 
 And then the thread moved.
 
@@ -154,7 +154,7 @@ The wind came back at midnight, out of the east.
 
 The *Faro* raised Cristal at sunset on the eleventh day. Edric saw it from the bow, with his own eyes, clearly: the island rising out of the sea, the cliffs, the terraces, the citadel with its broken dome. And smoke. A great black column of it, leaning on the wind, and under it the harbour in ruins, and the twelve white ships lying in a curve across its mouth, with their mirrors going dark as the sun went down.
 
-He had missed the Long Day. Whatever had happened on Cristal since dawn had happened without him. He could feel it from here, the way you feel a bruise: the burned quays, the melted stone, the hundred stilt-houses gone, the places on the terraces where people had fallen. He had not been there.
+He had missed the Long Day. He could feel it from here, the way you feel a bruise: the burned quays, the hundred stilt-houses gone, the places on the terraces where people had fallen. He had not been there.
 
 But he was standing on his own two feet. He could see. And when he reached down for the sea, it came, cold and slow and faint, but his. He had not driven the ship. He had not spent himself. He had ten days of stillness in him, and the Tidemark still stopped at his throat.
 

@@ -68,7 +68,7 @@ And the Radiant boats, which had been circling outside the harbour mouth all mor
 
 There were not many of them. A dozen boats, sixty knights. But there was nothing behind the wall to meet them except the people who could not climb. The Weir-folk men fought them on the shingle with boathooks and gutting knives and oars, and held them long enough for the women to carry the old and the sick and the babies up the first flight of the processional stair; and the knights burned the boat-sheds and the net-houses behind them, every one, with all the boats inside, and all the nets, a hundred years of knotting, and the little things the Weir-folk had saved from their stilt-houses that morning when the stilt-houses burned.
 
-Five Weir-folk died on the shingle. One of them was Corin Bettan, Old Bettan's youngest son, who had carried his mother up the stair on his back and then gone down again for her lamp.
+Five Weir-folk died on the shingle. One of them was Davy Bettan, Old Bettan's youngest son, who had carried his mother up the stair on his back and then gone down again for her lamp.
 
 "She is not weeping," said Hayda. "The Weir-folk do not weep in front of their enemies. But you are not her enemy, and she is not weeping in front of you either." She looked at him, sitting on the floor of the library with his back against the wall and his head in his hands. "I am telling you so that you know. Not so that you can carry it. You will want to carry it. Do not. It is hers."
 

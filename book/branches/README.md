@@ -136,6 +136,7 @@ Endings: the canon ending is [Chapter 31](../31-wait-and-hope.md). Codex's *The 
 - **[Event 35: Cassia at the Gate](act-5/35-cassia-at-the-gate.md)**
   - Refuse and break the gate yourself (Heart 0 · Tide +++)
   - Mira and the Weir-folk sing it open (Heart + · Tide 0 · Requires Ysolde's crown, a high Heart and a low Tide · Opens the way to the secret ending)
+- **[Event 36: The Chains](act-5/36-the-chains.md)**
 - **[Event 36a: The Flood](act-5/36a-the-flood.md)**
 - **[Event 36b: The Hollow Count](act-5/36b-the-hollow-count.md)**
 - **[Event 36c: Faro's Other Way](act-5/36c-faros-other-way.md)**
