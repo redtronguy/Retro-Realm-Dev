@@ -14,7 +14,7 @@ He held the stillness. He held it at the bottom of everything, under the rage, u
 
 It did not want to go.
 
-He had known it would not. It had not wanted to go on the beach under the Pale Cliffs, and that had been the silt of five years. This was the whole of the sea: three hundred years of it, and all the ages before the chains, everything the Deep had been since before there were people on the shore to hear it. It had filled every part of him, and it clung, and it pushed back, and it wanted the wave. And he pushed against it with the small warm thing at the bottom of himself, because that was all he had, and he felt the small warm thing begin to crack.
+It had not wanted to go on the beach under the Pale Cliffs, and that had been the silt of five years. This was the whole of the sea, and it clung, and pushed back, and wanted the wave. And he pushed against it with the small warm thing at the bottom of himself, because that was all he had, and he felt the small warm thing begin to crack.
 
 He pushed anyway. He had promised.
 
@@ -32,7 +32,7 @@ It was not the Deep.
 
 It was dry, and cracked, and very old, and quite extraordinarily irritable, and he knew it the way he knew his own heartbeat, because for eleven years in a cell under the sea it had been the first thing he heard every morning and the last thing every night.
 
-"Stubborn," said the voice. "I always said so. I said it the first day. *You're bigger than I expected, and stupider.* I may not have said the second part aloud. I was being polite. I'd been alone for thirty years."
+"Stubborn," said the voice. "I said it the first day. *You're bigger than I expected, and stupider.* I may not have said the second part aloud. I was being polite."
 
 Edric turned in the dark.
 
@@ -122,7 +122,7 @@ Faro looked at him for a long moment.
 
 So he asked.
 
-He did not know how, at first. He had never asked anyone for anything in twenty years, except Jac for a berth on a ship, once, on Gull Reef, and then he had not meant it. He reached up through the water, through the whole of the sea, to the small place at the edge of the pool where a woman's hand lay in the grey water, rough with net-cord, cold. And he did not take hold of it. He only touched it.
+He had not asked anyone for anything in twenty years. He reached up through the water, through the whole of the sea, to the small place at the edge of the pool where a woman's hand lay in the grey water, rough with net-cord, cold. And he did not take hold of it. He only touched it.
 
 *Mira,* he said. *I can't carry it. Not all of it. Not alone. Will you help me?*
 
@@ -232,7 +232,7 @@ He put his hand up and touched her face.
 
 "Everyone came," he said. "I couldn't not."
 
-Jac was swearing. Of course she was. She had her one good hand twisted in his collar and was telling him, in a steady furious tearful stream, what she thought of men who walked into dead pools without consulting their captains. Hayda had hold of his other arm and was saying nothing at all, with her face very still and her eyes shining. The Weir-folk were standing round him in the water, up to their waists, their chests, still holding hands, and the old Bettan cousin was crying openly, which the Weir-folk never did in front of anyone, and laughing, and so were the children.
+Jac was swearing. Of course she was. She had her one good hand twisted in his collar and was telling him, in a steady furious tearful stream, what she thought of men who walked into dead pools without consulting their captains. Hayda had hold of his other arm and said nothing at all, with her eyes shining. Round him in the water the Weir-folk stood, still holding hands, and the old Bettan cousin was crying openly, which the Weir-folk never did in front of anyone, and laughing.
 
 He looked down at himself.
 
