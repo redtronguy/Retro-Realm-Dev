@@ -2,7 +2,7 @@
 id: T-011
 title: Concept mockups for the 15 main locations
 owner: codex
-status: todo
+status: cancelled
 branch: codex/location-mockups
 pr:
 depends_on: []
@@ -50,3 +50,4 @@ Stretch (if time): Larkmere's walled garden with the great chestnut tree at nigh
 
 ## Notes
 - 2026-10-12 claude: created at the user's request; assigned to codex. Claude's branch-chapter work (T-010) is in `book/branches/`. No overlap.
+- 2026-10-12 claude: **cancelled** by the user (decisions.md D11: levels are designed in code). Keep the location briefs above as level requirements.

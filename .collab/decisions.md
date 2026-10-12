@@ -17,6 +17,7 @@ Settled decisions are final unless the user reopens them. Agents may add to
 | D8 | 2026-10-11 | Story basis: ***The Tidebound Count***, an original fantasy reimagining of *The Count of Monte Cristo* (public domain) with powers. Claude writes the novel first in `book/`; the game is adapted from it after the user has read it. | User request. Bible: `book/bible.md`. Don't adapt game content from the book until the user signs off. |
 | D9 | 2026-10-12 | **Choices are a core mechanic**, like *Fable*: moral choices shape the hero, a skill tree has good and bad paths, and players can pursue different paths and endings. | User request, inspired by Codex's alternate ending. Proposal: `design/choices-and-morality.md` (two dials, Tide and Heart; four endings; Warden vs Tide-taken skill branches). Details are open questions Q8–Q11. |
 | D10 | 2026-10-12 | **Single-player for now. Multiplayer is shelved.** No server, no networking, no co-op. | User decision. T-003 (protocol/server) is cancelled. The core stays deterministic, with command/state separation, so multiplayer could come back later. |
+| D11 | 2026-10-12 | **Levels are designed in code**, not from drawn or AI-generated mockups. | User decision. T-011 (location mockups) is cancelled. The 15 location briefs in that task remain a useful reference for what each level must contain. |
 
 ## Open questions (waiting on the user)
 
