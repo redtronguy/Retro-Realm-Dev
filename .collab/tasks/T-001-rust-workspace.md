@@ -9,7 +9,7 @@ depends_on: []
 ---
 
 ## Goal
-Cargo workspace (`crates/realm-core`, `crates/realm-proto`, `apps/server`, `apps/desktop`), rust-toolchain.toml, and a GitHub Actions workflow running fmt, clippy and tests.
+Cargo workspace (`crates/realm-core`, `apps/desktop`; no server or protocol crate, per D10), rust-toolchain.toml, and a GitHub Actions workflow running fmt, clippy and tests.
 
 ## Acceptance
 - [ ] `cargo test --workspace` passes locally and in CI

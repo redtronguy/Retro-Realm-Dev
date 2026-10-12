@@ -69,19 +69,9 @@ Each of these is a branching scene. The book took one path; the game offers the 
 | The siege of Cristal (ch. 28) | Lift the fleet / drown it | Cassia Vell becomes an ally or an enemy, and the Radiants rebuild Cristal or not |
 | The chains (ch. 30) | Give it back / keep it / let the wave come | The four endings above |
 
-## Multiplayer (open question)
-
-The world is shared but the dials are personal. Proposal:
-
-- Each player has their own Tide and Heart, visible on their sprite.
-- **The city's mood** is the average Heart of everyone who's played in it, so a vengeful player makes the whole town warier.
-- **Story choices** are made by whoever is standing in the scene. For world-changing choices (the chains), one option is a vote. Another is giving the "Warden" role to one player per world.
-- Co-op players are **the Tidebound**: people Edric pulled from the sea, each carrying a strand of the Mark (bible, co-op note).
-
 ## Questions for the user
 
 1. **Two dials (Tide + Heart) or one Fable-style good/evil line?** Two dials give four endings; one gives two or three and is simpler.
-2. **Is the player Edric, or a new Tidebound hero in Edric's world?** This affects how literally the novel's scenes are replayed.
+2. **Is the player Edric, or a new Tidebound hero in Edric's world?** This affects how literally the novel's scenes are replayed. (Single-player makes playing Edric himself the natural choice.)
 3. **How reversible should it be?** Fully, with effort (Fable), or locked after key choices like the stillroom?
-4. **Multiplayer story choices:** a vote, a "Warden" player, or each player's own copy of the story?
-5. **Which endings to build first?** Suggestion: the Tidewarden and the Sea That Keeps, since both are already written as prose.
+4. **Which endings to build first?** Suggestion: the Tidewarden and the Sea That Keeps, since both are already written as prose.

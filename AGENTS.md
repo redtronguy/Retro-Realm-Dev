@@ -5,14 +5,14 @@ project (Codex reads `AGENTS.md`, Claude Code reads `CLAUDE.md`, which imports t
 
 ## The project
 
-A multiplayer SNES-style game that blends SimCity 2000 city-building with
+A single-player SNES-style game that blends SimCity 2000 city-building with
 Skyrim-style adventure. Players build a town together by day and defend it from
 monsters at night.
 
 - **Language:** Rust (decided). `prototype/c/` is a throwaway C prototype kept only
   as a reference for game rules. Do not extend it.
 - **Targets:** Steam Deck (primary dev device), Raspberry Pi, iPhone, ESP32.
-  Separate authoritative multiplayer server.
+  Single-player (decided 2026-10-12; multiplayer is shelved, see D10).
 - **Builds:** in the cloud through CI pipelines (GitHub Actions).
 - **Visual target:** SNES (256×224, 16-colour palettes, layered backgrounds).
 
@@ -88,5 +88,6 @@ and pushes when done, so the other side sees it.
   No OS, threads, files or sockets in it.
 - The simulation is deterministic: fixed tick, seeded RNG, no wall-clock time
   and no float-dependent game rules.
-- The server is authoritative. Clients send commands and receive snapshots and deltas.
+- Keep game state and player input separate (commands in, state out). The old
+  server-authoritative rule (D5) is shelved with multiplayer, but this keeps the door open.
 - Don't commit secrets, signing keys or `.env` files.
