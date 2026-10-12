@@ -15,6 +15,8 @@ User request: preserve the original book and write a separate alternative ending
 
 ## Result
 
+Draft PR: https://github.com/redtronguy/Retro-Realm-Dev/pull/3
+
 Complete: `book/alternate-endings/30-what-he-kept.md` and `31-the-sea-that-keeps.md`, with reading instructions in that folder's README. Approximately 5,600 words of alternate prose.
 
 Validation: all 38 pre-existing book files match the source branch byte-for-byte; local Markdown reading links resolve. Documentation-only change; Cargo checks exempt under AGENTS.md.
