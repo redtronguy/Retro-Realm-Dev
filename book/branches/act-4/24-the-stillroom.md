@@ -110,7 +110,7 @@ What was not the same came after, while the court was still frozen, and Valtor s
 
 Heloise Valtor stood up in the second gallery, with her hand at her throat, and said, in her soft voice, "That's a lie. That's a monstrous lie." And then she looked down into the well of the court, at her husband, and saw his face, and stopped speaking.
 
-Valtor did not look at the dock. He was looking up at the gallery. At his wife. And then, slowly, along the row beside her, to the girl in grey sitting at the end of it, very straight, with her grandfather's grave dark eyes. Lyse. Alive. Who had sat at his table every morning all autumn and eaten from the common pot and drunk nothing, and whom he had never once asked why.
+Valtor was looking up at the gallery. At his wife. And then along the row beside her, to the girl in grey at the end of it, very straight, with her grandfather's grave dark eyes. Lyse. Alive. Whom he had never once asked why she ate from the common pot.
 
 He took off his gold chain, and laid it on the clerk's table, and said, "It's true." He did not say which part. He did not need to.
 

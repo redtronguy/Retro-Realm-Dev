@@ -76,6 +76,14 @@ It was harder than the Keep. He had not known that anything could be harder than
 
 In for eight.
 
+He thought of the will on the desk in the study, signed and sealed. Cristal to its council. The books to Tam. Money to Maxim Moren and Lyse Valtor, and the rest of everything to Hayda, with a paper saying once more that she was free. He thought of Hayda, behind the door of her room in the dark, praying in High Sardhi to the Thirst. He had not said goodbye to her. He had not known how.
+
+He thought of Mira at the edge of the crowd with her hands over her mouth, and the lie he had told her, sitting there between them like a stone. *You'd tell me. If you knew.* He thought that if he died on this turf, she would never know why her son had shot a stranger at dawn, and that perhaps that was the only clean thing he had ever given her: a husband she could still bury without hating.
+
+Out for eight.
+
+The boy's hand steadied. Not much. Enough. Edric saw him set his jaw, the way Mira set hers before a squall, and close one eye, and aim, for the first time, properly.
+
 Aren fired.
 
 He heard it before he felt it: a flat hard crack, and a puff of white smoke torn sideways by the wind off the sea. Then something struck him high on the left side of the chest, under the collarbone, like a blow from a hammer, and turned him half round, and the turf came up and hit him in the face.
@@ -259,6 +267,12 @@ Mira blinked. She was sitting on the floor of a strange room, in the dark, with 
 "My lord," she said. She put a hand to her head. "I'm so sorry. I. I don't know why I. I came to ask you." She stopped. "About my son. About the duel. I came to beg you not to kill him." She looked at him, and her face was a stranger's face, polite and frightened and very tired, and there was nothing in it at all that knew him. "Please. He's sixteen."
 
 "I won't kill him, madam," said the Count of Cristal. "You have my word."
+
+She thanked him. She thanked him three times, with her stranger's face, and apologised for the hour, and for intruding, and for sitting on his floor like a fishwife, she could not think what had come over her; and he helped her to her feet and walked her down the stair to the courtyard, where Bastien stood by the gate with a lantern and a face like stone, and put her into her hired chair. She did not look back at the house. Why would she? There was nothing in it of hers.
+
+He went back up to the study and stood at the window. He could feel her going away down the Street of Lanterns, the water in her moving calm and slow, calmer than it had been since the night in the hall of green glass. He had done that. He had given her that.
+
+He told himself so until the sky began to grey, and found that he could not make it sound like anything but what it was.
 
 ---
 

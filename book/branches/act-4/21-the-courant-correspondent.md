@@ -36,6 +36,10 @@ Tarrow went still.
 
 Tarrow looked at the glass in his hand. He did not drink.
 
+There were other doors. He could see them, standing open, the way he could always see them now. He could tell this thin hungry man the truth, or some of it, and watch what he did with it. He could put his hand on the man's face and reach into the water behind his eyes and make the last six weeks be still. Both of those would cost something. The truth would cost him his safety, and perhaps a great deal more. The other would cost him something he did not like to name, and had read about, on the long nights at Cristal, in a chapter with two words written in its margin in red ink.
+
+Gold cost him nothing. Gold was the one thing he had more of than he could ever spend. It was the cleanest coin he had; that was what he told himself. Nobody was hurt. Nobody was lied to. A poor man went home richer, and a story went into the fire, and the tide went on coming in.
+
 "Ten thousand marks," said Edric.
 
 The water in the man leapt. He felt it the way you feel a fish take a line.
@@ -94,7 +98,7 @@ Edric did not open it. He laid it on the rim of the pool, and looked at the jour
 
 Tarrow sat. He did not quite know why. He looked at the black marble pool, at the fountain dancing on it, at the light breaking and re-forming on its surface, and the light was very bright, and the sound of the water was very loud, and then very soft.
 
-*On the Discipline of Still Water. Of the Clouding.* It was in the twelfth chest, in a book bound in grey sharkskin, in a chapter that some Warden long dead had marked, in red ink, in the margin, with a single word: *Do not.* Edric had read it anyway, on the long nights at Cristal. He had told himself it was so that he would know what to guard against.
+*On the Discipline of Still Water. Of the Clouding.* It was in the twelfth chest, in a book bound in grey sharkskin, in a chapter that some Warden long dead had marked, in red ink, in the margin, with two words: *Do not.* Edric had read it anyway, on the long nights at Cristal. He had told himself it was so that he would know what to guard against.
 
 *Every memory is a current in the waters of the mind. And as a still pool, when a stone falls into it, is troubled, and then grows still again and shows no mark of the stone, so may the Warden, holding his own stillness over another's, make a current in them still, until it is as if it had never run.*
 
