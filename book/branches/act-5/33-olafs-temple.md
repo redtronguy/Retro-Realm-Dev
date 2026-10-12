@@ -90,11 +90,11 @@ He was standing at the foot of the processional stair, in the dark, in the place
 
 Edric stopped.
 
-"Hayda told me," said Big Olaf, in his slow deep voice. "About the wall. And Corin. She said you'd want to know I knew." He looked down at the black wet ruins round his feet. "I'd have stayed in there and been burned, if you'd let me. I was ready. I'd made my peace. I want you to know that too."
+"Hayda told me," said Big Olaf, in his slow deep voice. "About the wall. And Davy. She said you'd want to know I knew." He looked down at the black wet ruins round his feet. "I'd have stayed in there and been burned, if you'd let me. I was ready. I'd made my peace. I want you to know that too."
 
 "I know," said Edric.
 
-"I'm not saying it to make you sorry. I'm saying it because it's true." Olaf was quiet for a while. "Corin used to come up and listen to me, mornings. Sometimes. Sat on the step outside. Said it was the worst singing he'd ever heard, and he'd heard gulls fighting over a herring." He swallowed. "I don't know what to do with it, Warden. Being alive when he's not."
+"I'm not saying it to make you sorry. I'm saying it because it's true." Olaf was quiet for a while. "Davy used to come up and listen to me, mornings. Sometimes. Sat on the step outside. Said it was the worst singing he'd ever heard, and he'd heard gulls fighting over a herring." He swallowed. "I don't know what to do with it, Warden. Being alive when he's not."
 
 Edric looked at him for a long time, in the dark.
 
@@ -102,7 +102,7 @@ Edric looked at him for a long time, in the dark.
 
 ### Later
 
-Old Bettan would not let them carry Corin up to the burying-ground on the hill. The Weir-folk did not bury their dead. They gave them to the sea.
+Old Bettan would not let them carry Davy up to the burying-ground on the hill. The Weir-folk did not bury their dead. They gave them to the sea.
 
 So on the evening after the fleet surrendered, when the white ships lay on the Long Bank with their mirrors smashed and the High Radiant's sword lay on the shingle at the inner end of the harbour, the Weir-folk wrapped their five dead in sailcloth and laid them in a fishing boat, the only one left that would float, and pushed it out on the ebb with lamps at its bow and stern. And the whole of Cristal came down to watch, and stood on the burned quays in silence while the little boat drifted out towards the harbour mouth and the open sea.
 
