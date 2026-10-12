@@ -106,7 +106,7 @@ Jac Teague was silent for a long time. The *Slip* ran on under the stars.
 
 It was the closest she came, that year, to forgiving him.
 
-Faro sailed home. The walls on the shore of Cristal were not finished that winter, and when a blighted thing that had once been a seal dragged itself ashore in the dark of the moon and killed a net-mender's boy, it came in through the gap where the north wall should have been. Tam taught the children in their coats all winter, under a roof that leaked onto the slates, and did not complain once, and did not need to.
+The walls on the shore of Cristal were not finished that winter, and when a blighted thing that had once been a seal dragged itself ashore in the dark of the moon and killed a net-mender's boy, it came in through the gap where the north wall should have been. Tam taught the children in their coats all winter, under a roof that leaked onto the slates, and did not complain once, and did not need to.
 
 ### Later
 
@@ -212,6 +212,18 @@ They went in ones and twos at first, slipping away on other ships, at night. The
 
 He did not pull them there. He did not need to. He only had to stop pulling them anywhere else.
 
+On the twelfth day, the first of them came into the harbour: a lean, scarred, grey-haired captain called Dunne, who had sailed under Marrock for fifteen years, with a leaking brig and thirty men and their families crammed into the hold. He stood on the quay in front of the Warden with his hat in his hands and could not quite meet his eyes.
+
+"I don't know what's happening in Corrow," he said. "Nobody does. It's like the luck's run out of the whole rock all at once, like water out of a cracked jar. The bank's calling his paper. The brandy's gone off. There's men saying he means to sell us." He turned the hat round in his hands. "I don't believe it. Not of Saul. But I've children, Warden, and they've got to eat, and they say there's work here."
+
+"There's work here," said Faro. "Keep the peace and pay your dues, and nobody will ask where you came from."
+
+Dunne looked at him then, at last, and something in his weathered face changed, and he took a step back without seeming to know he had done it.
+
+"You know," he said slowly. "Don't you? Whatever it is. You know."
+
+Faro said nothing. Dunne put on his hat and went to find his people a place to sleep, and did not look back, and that night in the harbour tavern, Jac said afterwards, he told everyone who would listen that the Warden had eyes like the sea in winter.
+
 On the eighteenth night, he felt something in the knot at the centre of Corrow crack. Not break; crack, like ice. A great, slow, disbelieving fear went through it, and something under the fear that was almost grief. A man sitting alone in a back room hung with stolen tapestries, with a cup in his hand and nobody left to drink with.
 
 And Faro felt himself smile.
@@ -305,6 +317,20 @@ He looked round at them all, under the great tree in the old court where the Tid
 "Except us," Faro agreed, "if I'm wrong."
 
 They voted. It was seven to five. Jac voted against, and said so, and then went down to the quay that evening and spent two hours drinking with Marrock's captains in the harbour tavern, and came back and told Faro, sourly, which of them could be trusted and which could not.
+
+Marrock came to the harbour tower that night, alone, without his pistol, and stood in the doorway.
+
+"Seven to five," he said. "I heard. That redhead of yours voted against me."
+
+"She did."
+
+"Good. She's got sense." Marrock came in and sat down heavily across the table, an old man suddenly, in the lamplight, with his white beard and his missing ear. "Tell me the truth, Warden. Why? Not the speech you gave your fishwives. The real reason."
+
+Faro looked at him for a long moment.
+
+"Because a man once sat in a dark place for a very long time," he said, "and nobody gave him a second chance. Not one. And he's been wondering ever since what he'd have done with one, if anyone had."
+
+Marrock looked at him for a long time across the table. Then he grunted, and got up, and went out without a word. But at the door he stopped, and put his hand on the frame, and stood there for a moment with his back turned, as if he were going to say something. He did not say it.
 
 Marrock took his seat on the council at the next new moon. He sat on the end of the bench under the tree with his arms folded, looking enormously uncomfortable, and listened to the Sardhi grandmother complain about the drains on the second terrace for forty minutes, and at the end of it he leaned over to Faro and said, in a low and wondering voice, "Is it always like this?"
 

@@ -104,9 +104,9 @@ He did not laugh that winter. Nobody in Cristal took him out in the small boat p
 
 She testified. Of course she did.
 
-She stood up in the second gallery of the Chamber of Lords, veiled, in grey, and came down into the well of the hall, and put back her veil, and laid her father's ring and her father's letter and the bill of sale on the clerk's table one by one, and pointed at Fenrick Morrow, and her hand did not waver. She was magnificent. Every word was exactly as Edric had known it would be. He watched from the gallery and felt the Lord Marshal of Valemont break, and walk the length of the marble floor, and go out through the bronze doors for the last time.
+She stood up in the second gallery of the Chamber of Lords, veiled, in grey, and came down into the well of the hall, and put back her veil, and laid her father's ring and her father's letter and the bill of sale on the clerk's table one by one, and pointed at Fenrick Morrow, and her hand did not waver. She was magnificent. He watched from the gallery and felt the Lord Marshal of Valemont break, and walk the length of the marble floor, and go out through the bronze doors for the last time.
 
-In the carriage afterwards, with the curtains drawn, she sat very straight with the cedar box in her lap, and did not weep. She did not touch him. She sat and looked at the curtain a yard in front of her face, the whole way home.
+In the carriage afterwards, with the curtains drawn, she sat very straight with the cedar box in her lap, and did not weep. She did not touch him. She looked at the curtain a yard in front of her face the whole way home.
 
 That night, at the window of the study in the house with the blue door, when Bastien had brought the news of the sword and the study floor and gone out again, she came and stood beside him in the dark. Not close.
 
@@ -120,7 +120,7 @@ He turned and looked at her.
 
 "I found it in the first winter," said Hayda. "In the locked drawer of the desk in the library. Under the treatise on the Sardh. You know I read everything in that room. I read that too." Her voice did not rise at all. "Dated at Mazrah, the day you bought me. Sealed, witnessed. I was free before I set foot on your ship. You had it done, and put it in your coat, and looked at me, and decided I was more use to you as I was." She was quiet a moment. "Do you know who else did that? Who kept me, and fed me, and gave me fine rooms, and never once laid a hand on me, because I was worth more to him whole? The spice merchant. And the man before him. I know the kind of master who's kind because it pays. I've had four." She did not lower her hand. "You were the fifth. The paper, please."
 
-He went to the desk, and unlocked the drawer where he had moved it, and gave it to her. She read it through once, by the light from the window, to be sure. Then she folded it, and put it in her sleeve, and bowed, very slightly, so slightly that only he could have seen it.
+He went to the desk, and unlocked the drawer where he had moved it, and gave it to her. She read it through once, by the window. Then she folded it, and put it in her sleeve, and bowed, very slightly, so slightly that only he could have seen it.
 
 She was gone in the morning. Her rooms were empty. She had taken nothing he had bought her except the knife.
 

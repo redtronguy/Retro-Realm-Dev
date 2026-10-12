@@ -72,9 +72,25 @@ Faro walked back to the Crossed Keys, and paid for the water, and mounted his ho
 
 They rode north out of Fendle on the marsh road. A mile out, he found that his hands on the reins were very cold, colder than they had any reason to be in the spring sun, and that the taste of salt was in his mouth, though he had not touched the sea. He did not understand it. He had done nothing. That was the whole of it. He had done nothing at all.
 
-It came to him, a mile further on, past the Sallow dyke, that he had done exactly what another man had done once, in a tavern called the Three Anchors, with his head on the table: watched, and said nothing, and gone home to bed. And that he had told himself, as that man must have told himself, that it was not his business.
+It came to him, a mile further on, that he had done exactly what another man had done once, in a tavern called the Three Anchors, with his head on the table: watched, and said nothing, and gone home to bed. And that he had told himself, as that man must have told himself, that it was not his business.
 
-He rode on. He did not turn back. There was nothing to turn back for.
+Beside him, Rashid cleared his throat.
+
+"My mother's village is in the Greyhills, sir," he said. "On the Corley side. Before I went to sea." He kept his eyes on the road. "The winter I was nine, the snow came early and the harvest was still in the fields, and the lord's steward took what there was for the rent. We were eating bark. And one night, a cart came up the track with no driver, and a mule, and six sacks of flour in it, and a side of bacon, and a barrel of salt fish. Nobody saw who brought it." He was quiet a moment. "Everybody knew."
+
+Faro said nothing.
+
+"I'm not saying he was a good man, sir," said Rashid. "He robbed my uncle once, on the Solace road, and took his boots, and my uncle walked home barefoot in the rain and cursed him for a month. I'm only saying." He shrugged, very slightly, the Sardhi shrug that meant a great deal or nothing. "They'll be eating bark again, this winter, in the hills."
+
+They rode on. The marsh opened out round them, flat and wet and grey under the spring sky, and the larks went up out of the reeds on either side of the road, singing.
+
+That night, at an inn on the edge of the hills, Faro sat alone at the window of his room with a cup of wine he did not drink, and watched the water in it. It did not tremble. It lay perfectly still, a small dark disc with the candle in it. He had done nothing, after all. There was nothing in him for it to tremble at.
+
+He thought about a cart in the snow with no driver. He thought about a girl called Bet screaming over a stranger's shoulder all the way out of the square. He thought about how easy it would have been: a thread of water, a breath, a little cold. Less than he spent in an afternoon holding a face. And he had not spent it, because the man was a thief, and because it was not his business, and because nobody had come for Edric Vane.
+
+He found that the last reason was the true one, and that he did not like it, and that it had been in him, unexamined, like a stone in a shoe, for a very long time.
+
+In the morning he rode on. He did not turn back. There was nothing to turn back for.
 
 ### Later
 
