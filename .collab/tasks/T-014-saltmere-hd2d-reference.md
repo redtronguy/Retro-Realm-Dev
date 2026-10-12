@@ -4,7 +4,7 @@ title: Commit approved Saltmere HD-2D reference for the Unreal look test
 owner: codex
 status: review
 branch: codex/saltmere-hd2d-reference
-pr:
+pr: https://github.com/redtronguy/Retro-Realm-Dev/pull/4
 depends_on: []
 ---
 
