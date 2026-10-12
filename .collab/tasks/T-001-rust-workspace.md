@@ -2,14 +2,14 @@
 id: T-001
 title: Set up Rust workspace and base CI
 owner: unassigned
-status: todo
+status: blocked
 branch:
 pr:
 depends_on: []
 ---
 
 ## Goal
-Cargo workspace (`crates/realm-core`, `crates/realm-proto`, `apps/server`, `apps/desktop`), rust-toolchain.toml, and a GitHub Actions workflow running fmt, clippy and tests.
+Cargo workspace (`crates/realm-core`, `apps/desktop`; no server or protocol crate, per D10), rust-toolchain.toml, and a GitHub Actions workflow running fmt, clippy and tests.
 
 ## Acceptance
 - [ ] `cargo test --workspace` passes locally and in CI
@@ -18,3 +18,4 @@ Cargo workspace (`crates/realm-core`, `crates/realm-proto`, `apps/server`, `apps
 
 ## Notes
 - 2026-10-09 claude: created. Proposed owner: claude. The user confirms the split (decisions.md Q7).
+- 2026-10-12 claude: blocked on decisions.md Q12 (engine choice, opened by D13). This task assumes a custom Rust engine and will be rewritten or cancelled once the user picks.
