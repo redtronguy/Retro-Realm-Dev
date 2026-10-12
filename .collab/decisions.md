@@ -20,6 +20,7 @@ Settled decisions are final unless the user reopens them. Agents may add to
 | D11 | 2026-10-12 | **Levels are designed in code**, not from drawn or AI-generated mockups. | User decision. T-011 (location mockups) is cancelled. The 15 location briefs in that task remain a useful reference for what each level must contain. |
 | D12 | 2026-10-12 | **No city-builder.** The game is a pixel-art blend of *Skyrim* and *Fable* (open-world action RPG with moral choices), based on the book *The Tidebound Count*. | User decision. Supersedes D6. The city-builder ties in `design/choices-and-morality.md` and `design/choice-events.md` need reworking (T-012). The C prototype's city rules are no longer a reference. |
 | D13 | 2026-10-12 | **A compelling game comes before the hardware it runs on.** Hardware targets no longer constrain the engine or architecture; an off-the-shelf engine is allowed. | User decision. Lifts the `no_std`/ESP32 constraint on the design. Which engine, and so which of the D3 platforms survive, is Q12. The user has an Unreal server available and is open to setting up an environment for something else. |
+| D14 | 2026-10-12 | **Locations and visuals are developed now, while the story is worked out.** The user is still reading the book and will confirm story elements later. | User decision. D8's hold still applies to story content: plot events, choices, dialogue and endings wait for sign-off. Building the places and the look of the game does not. T-011's location briefs are the starting list. |
 
 ## Open questions (waiting on the user)
 
