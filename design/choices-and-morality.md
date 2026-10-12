@@ -1,5 +1,7 @@
 # Choices and morality: design proposal
 
+> **Out of date in part (2026-10-12):** the city-builder was dropped (decisions.md D12). Everything here that refers to city systems is being reworked under T-012.
+
 **Status:** draft for the user's review. Nothing here is decided until it's recorded in `.collab/decisions.md`.
 
 **Origin:** the user's idea (inspired by *Fable*'s good/evil paths and skill trees), sparked by Codex's alternate ending *The Sea That Keeps*. Based on *The Tidebound Count* (`book/`) and its alternate ending (`book/alternate-endings/`).

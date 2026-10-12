@@ -1,5 +1,7 @@
 # Choice events: catalogue
 
+> **Out of date in part (2026-10-12):** the city-builder was dropped (decisions.md D12). Everything here that refers to city systems is being reworked under T-012.
+
 **Status:** draft for the user's review. This companion to `design/choices-and-morality.md` lists new story events that give the player good and bad choices, beyond the eight big scenes taken from the novel.
 
 **Key:**

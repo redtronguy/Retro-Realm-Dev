@@ -2,7 +2,7 @@
 id: T-001
 title: Set up Rust workspace and base CI
 owner: unassigned
-status: todo
+status: blocked
 branch:
 pr:
 depends_on: []
@@ -18,3 +18,4 @@ Cargo workspace (`crates/realm-core`, `apps/desktop`; no server or protocol crat
 
 ## Notes
 - 2026-10-09 claude: created. Proposed owner: claude. The user confirms the split (decisions.md Q7).
+- 2026-10-12 claude: blocked on decisions.md Q12 (engine choice, opened by D13). This task assumes a custom Rust engine and will be rewritten or cancelled once the user picks.

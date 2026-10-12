@@ -5,13 +5,16 @@ project (Codex reads `AGENTS.md`, Claude Code reads `CLAUDE.md`, which imports t
 
 ## The project
 
-A single-player SNES-style game that blends SimCity 2000 city-building with
-Skyrim-style adventure. Players build a town together by day and defend it from
-monsters at night.
+A single-player pixel-art action RPG that blends *Skyrim* and *Fable*: an open
+world, moral choices that shape the hero, and several endings. It is based on the
+project's novel, *The Tidebound Count* (`book/`). There is no city-builder (D12).
 
-- **Language:** Rust (decided). `prototype/c/` is a throwaway C prototype kept only
-  as a reference for game rules. Do not extend it.
-- **Targets:** Steam Deck (primary dev device), Raspberry Pi, iPhone, ESP32.
+- **Engine and language:** under review (decisions.md Q12). D13 puts a compelling
+  game ahead of hardware targets, so an off-the-shelf engine is allowed and Rust (D1)
+  may be reopened. Don't start engine or client work until Q12 is answered.
+  `prototype/c/` is a throwaway C prototype of the old city-builder. Do not extend it.
+- **Targets:** Steam Deck (primary dev device) first; Raspberry Pi, iPhone and ESP32
+  depend on the engine chosen in Q12.
   Single-player (decided 2026-10-12; multiplayer is shelved, see D10).
 - **Builds:** in the cloud through CI pipelines (GitHub Actions).
 - **Visual target:** SNES (256×224, 16-colour palettes, layered backgrounds).
@@ -76,6 +79,9 @@ and pushes when done, so the other side sees it.
   how to verify, any traps.
 
 ## Engineering conventions
+
+> The Rust-specific rules below (`cargo` gates, `no_std`) apply only if Q12 keeps a
+> Rust engine. They will be rewritten for whichever engine the user picks.
 
 - **CI is the gate.** `cargo fmt --check`, `cargo clippy -- -D warnings` and `cargo test`
   run in GitHub Actions on every PR, and nothing merges to `main` while they're red.
